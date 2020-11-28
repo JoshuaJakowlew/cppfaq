@@ -48,7 +48,7 @@
 ### ✅ Курсы по С++ для начинающих и не только
 {
 
-`\tusing faq::study;`
+  using faq::study;
 
 - ["Искусство разработки на современном C++" от МФТИ](https://ru.coursera.org/specializations/c-plus-plus-modern-development)
 - const Course cppDev = \[\](const CourseProvider &OTUS) { return OTUS.extractCourseByName(["Разработчик C++ 2020"](https://vk.cc/awLtsT)); };
