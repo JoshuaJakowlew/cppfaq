@@ -15,6 +15,7 @@
 - [Последний драфт стандарта](http://eel.is/c++draft/)
 - [Курируемый список потрясающих C/C++ фреймворков, библиотек, ресурсов и блестящих вещей](https://cpp.libhunt.com)
 - https://github.com/fffaraz/awesome-cpp
+
 };
 
 ### ⁉ Где запустить и посмотреть код?
@@ -24,6 +25,7 @@
 - Удобные сервисы для копипасты и прочей тому подобной ереси:
 1) [GitHub Gist](https://gist.github.com)
 2) [Pastebin](https://pastebin.com)
+
 };
 
 ###  Нововведения С++
@@ -32,6 +34,7 @@
 - Нововведения С++14 —> https://vk.cc/aCveuz
 - Нововведения С++17 —> https://vk.cc/aCvewS
 - Нововведения С++20 —> https://vk.cc/aCveAb
+
 };
 
 ## Учебные материалы
@@ -44,10 +47,13 @@
 
 ### ✅ Курсы по С++ для начинающих и не только
 {
+
 `    using faq::study;`
+
 - ["Искусство разработки на современном C++" от МФТИ](https://ru.coursera.org/specializations/c-plus-plus-modern-development)
 - [const Course cppDev = \[\](const CourseProvider &OTUS) { return OTUS.extractCourseByName("Разработчик C++ 2020"); };](https://vk.cc/awLtsT)
 - OTUS С++ для начинающих разработчиков 2020 —> https://vk.cc/awLtlo
+
 };
 
 ### ✅Материалы для изучения алгоритмов и структур данных
