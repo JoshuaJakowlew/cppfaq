@@ -14,7 +14,7 @@
 - [Идиомы языка С++](https://en.m.wikibooks.org/wiki/More_C%2B%2B_Idioms)
 - [Последний драфт стандарта](http://eel.is/c++draft/)
 - [Курируемый список потрясающих C/C++ фреймворков, библиотек, ресурсов и блестящих вещей](https://cpp.libhunt.com)
-- https://github.com/fffaraz/awesome-cpp
+- [И ещё один (или тот же самый :-/)](https://github.com/fffaraz/awesome-cpp)
 
 };
 
@@ -23,8 +23,8 @@
 - [Repl.it - Online IDE](https://repl.it/languages/cpp)
 - [GodBolt - Online DisAsm](https://godbolt.org)
 - Удобные сервисы для копипасты и прочей тому подобной ереси:
-1) [GitHub Gist](https://gist.github.com)
-2) [Pastebin](https://pastebin.com)
+  1) [GitHub Gist](https://gist.github.com)
+  2) [Pastebin](https://pastebin.com)
 
 };
 
@@ -48,10 +48,10 @@
 ### ✅ Курсы по С++ для начинающих и не только
 {
 
-`    using faq::study;`
+`\tusing faq::study;`
 
 - ["Искусство разработки на современном C++" от МФТИ](https://ru.coursera.org/specializations/c-plus-plus-modern-development)
-- [const Course cppDev = \[\](const CourseProvider &OTUS) { return OTUS.extractCourseByName("Разработчик C++ 2020"); };](https://vk.cc/awLtsT)
+- const Course cppDev = \[\](const CourseProvider &OTUS) { return OTUS.extractCourseByName(["Разработчик C++ 2020"](https://vk.cc/awLtsT)); };
 - OTUS С++ для начинающих разработчиков 2020 —> https://vk.cc/awLtlo
 
 };
