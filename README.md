@@ -1,25 +1,37 @@
 # C++ FAQ
-В этом репозитории хранится информация о часто задаваемых вопросах, ссылки на полезные ресурсы и обучающую литератутру.
+В этом репозитории хранится информация о часто
+задаваемых вопросах, ссылки на полезные ресурсы и
+обучающую литературу.
 
 ## Полезные ресурсы и материалы по C++:
 
 ### ⁉ Как оно работает? Как делать правильно?
--  Документация по С++ —-> vk.cc/VyBxM
-- SOURCE —> abstract syntax tree https://cppinsights.io/
-- Как писать на современном C++ —-> https://vk.cc/4dwsBF
-- Паттерны проектирования —-> https://vk.cc/auDO0j
-- Идиомы языка С++ —-> https://vk.cc/atblan
-- Последний драфт стандарта —> https://vk.cc/atbp8g
-- Курируемый список потрясающих C/C++ фреймворков, библиотек, ресурсов и блестящих вещей. —> https://cpp.libhunt.com/
-https://github.com/fffaraz/awesome-cpp
+
+---
+
+- [Документация по С++](https://en.cppreference.com/w)
+- [Abstract Syntax Tree](https://cppinsights.io)
+- [Как писать на современном C++](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+- [Паттерны проектирования](https://refactoring.guru/ru/design-patterns/cpp)
+- [Идиомы языка С++](https://en.m.wikibooks.org/wiki/More_C%2B%2B_Idioms)
+- [Последний драфт стандарта](http://eel.is/c++draft/)
+- [Курируемый список потрясающих C/C++ фреймворков, библиотек, ресурсов и блестящих вещей](https://cpp.libhunt.com)
+- [И ещё один (или тот же самый :-/)](https://github.com/fffaraz/awesome-cpp)
 
 ### ⁉ Где запустить и посмотреть код?
-- https://repl.it/languages/cpp (онлайн компилятор),
-- https://godbolt.org/ (онлайн дизассемблер). 
-- https://gist.github.com/ (удобно сохранять и делиться)
-- https://pastebin.com/ (удобно сохранять и делиться)
 
-### 🙉 Нововведения С++:
+---
+
+- [Repl.it - Online IDE](https://repl.it/languages/cpp)
+- [GodBolt - Online DisAsm](https://godbolt.org)
+- Удобные сервисы для копипасты и прочей тому подобной ереси:
+  1) [GitHub Gist](https://gist.github.com)
+  2) [Pastebin](https://pastebin.com)
+
+###  ⁉ Нововведения С++
+
+---
+
 - Нововведения С++11 —> https://vk.cc/aCvejE
 - Нововведения С++14 —> https://vk.cc/aCveuz
 - Нововведения С++17 —> https://vk.cc/aCvewS
@@ -28,38 +40,78 @@ https://github.com/fffaraz/awesome-cpp
 ## Учебные материалы
 
 ### ✅ Книги для начинающих:
+
+---
+
+`segmentation fault (core dumped)`
+
 - C++ Primer Plus (Stephen Prata)
+
 - C++ Primer (5th Edition) (Stanley B. Lippman, Josée Lajoie, Barbara E. Moo)
+
 - Programming: Principles and Practice Using C++ (Bjarne Stroustrup)
-- Небольшая библиотека (пополняется) —> https://vk.cc/aAXB8Q
+
+- [Пополняющаяся библиотека полезной литературы](https://yadi.sk/d/3p7CqGmDVslLiA?w=1)
+
+  
 
 ### ✅ Курсы по С++ для начинающих и не только
-- Специализация Искусство разработки на современном C++ —> https://vk.cc/9K5lIh
-- OTUS Разработчик C++ 2020 —> https://vk.cc/awLtsT
-- OTUS С++ для начинающих разработчиков 2020 —> https://vk.cc/awLtlo
+
+---
+
+- ["Искусство разработки на современном C++" от МФТИ](https://ru.coursera.org/specializations/c-plus-plus-modern-development)
+
+- `const Course cppDev = [](const CourseProvider &OTUS) { return OTUS.extractCourseByName(`[`"Разработчик C++ 2020"`](https://yadi.sk/d/TFhkHB1jhWPPWg?w=1)`); };`
+
+- OTUS С++ для начинающих разработчиков 2020 —> https://yadi.sk/d/TFhkHB1jhWPPWg?w=1
+
+  
 
 ### ✅Материалы для изучения алгоритмов и структур данных
-- OTUS Алгоритмы для разработчиков 2020 - https://vk.cc/aA1T9E
+
+---
+
+- OTUS Алгоритмы для разработчиков 2020 - https://yadi.sk/d/JYgqgDt9-7_EXg?w=1
+
 - Книги - https://vk.cc/aA1Srj
+
 - Визуальное представление алгоритмов
-- https://visualgo.net/en
-- https://algorithm-visualizer.org/
-- Algorithms Specialization от
-Стэндфордского университета (Coursera) - https://vk.cc/aA1UO1
+
+  1) https://visualgo.net/en
+
+  2) https://algorithm-visualizer.org/
+
+- Algorithms Specialization от Стэндфордского университета (Coursera) - https://www.coursera.org/browse/computer-science/algorithms
+
 - Лекции Маврина Павла - https://www.youtube.com/c/pavelmavrin
 
+  
 
 ### ✅ Ресурсы с задачами для практики
-- https://www.hackerrank.com/domains/cpp
-- https://codeforces.com/
-- https://codewars.com/kata/search/cpp?q=&&beta
+
+---
+
+- [Hackerrank](https://www.hackerrank.com/domains/cpp)
+
+- [CodeForces](https://codeforces.com/)
+
+- [Codewars](https://codewars.com/kata/search/cpp?q=&&beta)
+
+  
 
 ### ✅ Полезные лекции и интересные статьи
-- Отличные статьи по С++ и не только —> http://scrutator.me/
-- Великолепные лекции по С++ от преподавателя МФТИ —> https://vk.cc/axCue7
-- Лекторий ФПМИ (Введение в С++ (1 курс, осень 2020)) —>
-https://vk.cc/aBbhB3
+
+---
+
+- [Отличные статьи по С++ и не только](http://scrutator.me/)
+
+- [Великолепные лекции по С++ от преподавателя МФТИ](https://www.youtube.com/channel/UCvmBEbr9NZt7UEh9doI7n_A/featured)
+
+- [Лекторий ФПМИ (Введение в С++ (1 курс, осень 2020))](https://www.youtube.com/playlist?list=PL4_hYwCyhAvazfCDGyS0wx_hvBmnAAf4h)
+
 - Лекции по С++ от Computer Science Center
-Ч1 —> https://vk.cc/axCupG
-Ч2 —> https://vk.cc/axCu9X
-- Jason Turner (C++ Weekly) —> https://www.youtube.com/user/lefticus1
+
+  1) [Vol.1](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTFea2FYxp7mFfbZW-xavhL)
+  2) [Vol.2](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRs7YafQ1GgJvyRku10m1RN)
+
+- [Jason Turner (C++ Weekly)](https://www.youtube.com/user/lefticus1)
