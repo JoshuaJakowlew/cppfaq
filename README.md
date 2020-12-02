@@ -24,6 +24,7 @@
 
 - [Repl.it - Online IDE](https://repl.it/languages/cpp)
 - [GodBolt - Online DisAsm](https://godbolt.org)
+- [Quicktype - Генератор классов по JSON-схеме](https://quicktype.io/)
 - Удобные сервисы для копипасты и прочей тому подобной ереси:
   1) [GitHub Gist](https://gist.github.com)
   2) [Pastebin](https://pastebin.com)
