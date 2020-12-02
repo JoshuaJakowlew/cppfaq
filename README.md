@@ -116,3 +116,5 @@
   2) [Vol.2](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRs7YafQ1GgJvyRku10m1RN)
 
 - [Jason Turner (C++ Weekly)](https://www.youtube.com/user/lefticus1)
+
+```EOF```
