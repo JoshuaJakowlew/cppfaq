@@ -33,10 +33,10 @@
 
 ---
 
-- Нововведения С++11 —> https://vk.cc/aCvejE
-- Нововведения С++14 —> https://vk.cc/aCveuz
-- Нововведения С++17 —> https://vk.cc/aCvewS
-- Нововведения С++20 —> https://vk.cc/aCveAb
+- [Нововведения С++11](https://www.youtube.com/watch?v=ZOmZCj5ijck&ab_channel=PVS-StudioRu)
+- [Нововведения С++14](https://www.youtube.com/watch?v=5TTS9zr9PGk&ab_channel=PVS-StudioRu)
+- [Нововведения С++17](https://www.youtube.com/watch?v=rRMgJEZVY04&ab_channel=PVS-StudioRu)
+- [Нововведения С++20](https://www.youtube.com/watch?v=KPuYn_fUdxc&t=3s&ab_channel=PVS-StudioRu)
 
 ## Учебные материалы
 
@@ -44,13 +44,11 @@
 
 ---
 
-`segmentation fault (core dumped)`
+- "C++ Primer Plus", Stephen Prata
 
-- C++ Primer Plus (Stephen Prata)
+- "C++ Primer" [5th Edition], Stanley B. Lippman, Josée Lajoie, Barbara E. Moo
 
-- C++ Primer (5th Edition) (Stanley B. Lippman, Josée Lajoie, Barbara E. Moo)
-
-- Programming: Principles and Practice Using C++ (Bjarne Stroustrup)
+- "Programming: Principles and Practice Using C++", Bjarne Stroustrup
 
 - [Пополняющаяся библиотека полезной литературы](https://yadi.sk/d/3p7CqGmDVslLiA?w=1)
 
@@ -62,9 +60,9 @@
 
 - ["Искусство разработки на современном C++" от МФТИ](https://ru.coursera.org/specializations/c-plus-plus-modern-development)
 
-- `const Course cppDev = [](const CourseProvider &OTUS) { return OTUS.extractCourseByName(`[`"Разработчик C++ 2020"`](https://yadi.sk/d/TFhkHB1jhWPPWg?w=1)`); };`
+- ["Разработчик C++ 2020"](https://yadi.sk/d/TFhkHB1jhWPPWg?w=1)
 
-- OTUS С++ для начинающих разработчиков 2020 —> https://yadi.sk/d/TFhkHB1jhWPPWg?w=1
+- [OTUS С++ для начинающих разработчиков 2020](https://yadi.sk/d/TFhkHB1jhWPPWg?w=1)
 
   
 
@@ -72,19 +70,19 @@
 
 ---
 
-- OTUS Алгоритмы для разработчиков 2020 - https://yadi.sk/d/JYgqgDt9-7_EXg?w=1
+- [OTUS Алгоритмы для разработчиков 2020](https://yadi.sk/d/JYgqgDt9-7_EXg?w=1)
 
-- Книги - https://vk.cc/aA1Srj
+- [Библиотечка с алгоритмами](https://yadi.sk/d/K52tOIf0NpH_QA?w=1)
 
-- Визуальное представление алгоритмов
+- Визуальное представление алгоритмов:
 
-  1) https://visualgo.net/en
+  1) [VisualGo](https://visualgo.net/en)
 
-  2) https://algorithm-visualizer.org/
+  2) [Algorithm Visualizer](https://algorithm-visualizer.org)
 
-- Algorithms Specialization от Стэндфордского университета (Coursera) - https://www.coursera.org/browse/computer-science/algorithms
+- [Algorithms Specialization от Стэндфордского университета (Coursera)](https://www.coursera.org/browse/computer-science/algorithms)
 
-- Лекции Маврина Павла - https://www.youtube.com/c/pavelmavrin
+- [Лекции Маврина Павла](https://www.youtube.com/c/pavelmavrin)
 
   
 
@@ -110,7 +108,7 @@
 
 - [Лекторий ФПМИ (Введение в С++ (1 курс, осень 2020))](https://www.youtube.com/playlist?list=PL4_hYwCyhAvazfCDGyS0wx_hvBmnAAf4h)
 
-- Лекции по С++ от Computer Science Center
+- Лекции по С++ от Computer Science Center:
 
   1) [Vol.1](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTFea2FYxp7mFfbZW-xavhL)
   2) [Vol.2](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRs7YafQ1GgJvyRku10m1RN)
