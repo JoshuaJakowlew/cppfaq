@@ -9,22 +9,25 @@
 
 ---
 
-- [Документация по С++](https://en.cppreference.com/w)
-- [Abstract Syntax Tree](https://cppinsights.io)
-- [Как писать на современном C++](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
-- [Паттерны проектирования](https://refactoring.guru/ru/design-patterns/cpp)
-- [Идиомы языка С++](https://en.m.wikibooks.org/wiki/More_C%2B%2B_Idioms)
-- [Последний драфт стандарта](http://eel.is/c++draft/)
-- [Курируемый список потрясающих C/C++ фреймворков, библиотек, ресурсов и блестящих вещей](https://cpp.libhunt.com)
+* [Документация по С++](https://en.cppreference.com/w)
+* [Последний драфт стандарта](http://eel.is/c++draft/)
+* [Abstract Syntax Tree](https://cppinsights.io)
+* [Как писать на современном C++](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+* [Паттерны проектирования](https://refactoring.guru/ru/design-patterns/cpp)
+* [Идиомы языка С++](https://en.m.wikibooks.org/wiki/More_C%2B%2B_Idioms)
+* [Курируемый список потрясающих C/C++ фреймворков, библиотек, ресурсов и блестящих вещей](https://cpp.libhunt.com)
+* [Руины древней цивилизации (stackoverflow)](stackoverflow.com)
 
 ### ⁉ Где(как) запустить, посмотреть и поделиться кодом?
 
 ---
 
-- [GodBolt - Online DisAsm/Compiler](https://godbolt.org)
-- [WandBox - Online Compiler](https://wandbox.org/)
-- [Repl.it - Online IDE](https://repl.it/languages/cpp)
-- [Quicktype - Генератор классов по JSON-схеме](https://quicktype.io/)
+* [GodBolt - Online DisAsm/Compiler](https://godbolt.org)
+* [WandBox - Online Compiler](https://wandbox.org/)
+* [Repl.it - Online IDE](https://repl.it/languages/cpp)
+* [Quicktype - Генератор классов по JSON-схеме](https://quicktype.io/)
+* [C gibberish ↔ English](https://cdecl.org/)
+
 - Удобные сервисы для размещения кода:
   * [GitHub Gist](https://gist.github.com)
   * [Pastebin](https://pastebin.com)
@@ -33,13 +36,10 @@
 
 ---
 
-- [Hackerrank](https://www.hackerrank.com/domains/cpp)
-
-- [CodeForces](https://codeforces.com/)
-
-- [Codewars](https://codewars.com/kata/search/cpp?q=&&beta)
-
-- [LeetCode](https://leetcode.com/)
+* [Hackerrank](https://www.hackerrank.com/domains/cpp)
+* [CodeForces](https://codeforces.com/)
+* [Codewars](https://codewars.com/kata/search/cpp?q=&&beta)
+* [LeetCode](https://leetcode.com/)
 
 ###  ⁉ Нововведения С++
 
@@ -73,17 +73,22 @@
 - Принципы и практика с использованием C++ Б. Страуструп
   * [Скачать книгу](https://disk.yandex.ru/i/1EJ6hlr7g_glhw)
 
+- Объектно-ориентированное программирование в С++ Лафоре Роберт
+  * [Скачать книгу](https://disk.yandex.ru/i/c95yr9T1iVnkbg)
+
 - [Пополняющаяся библиотека полезной литературы](https://disk.yandex.ru/d/3p7CqGmDVslLiA?w=1)
 
 ### ✅ Курсы по С++ для начинающих и не только
 
 ---
+- Для ознакомления с языком, если у вас вообще нету опыта.
+  * [Введение в программирование (C++)] (https://stepik.org/course/363/promo)
+  * [Программирование на языке C++] (https://stepik.org/course/7/promo)
 
-- ["Искусство разработки на современном C++" от МФТИ](https://ru.coursera.org/specializations/c-plus-plus-modern-development)
-
-- [ [OTUS] С++ для начинающих разработчиков 2020](https://disk.yandex.ru/d/kcsmDi1uDcKdcw?w=1)
-
-- [ [OTUS] "Разработчик C++ 2020"](https://disk.yandex.ru/d/01KzEC-oIrpUqA?w=1)
+- Для тех, у кого уже имеются базовые знания.
+  * ["Искусство разработки на современном C++" от МФТИ](https://ru.coursera.org/specializations/c-plus-plus-modern-development)
+  * [ [OTUS] С++ для начинающих разработчиков 2020](https://disk.yandex.ru/d/kcsmDi1uDcKdcw?w=1)
+  * [ [OTUS] "Разработчик C++ 2020"](https://disk.yandex.ru/d/01KzEC-oIrpUqA?w=1)
 
 ### ✅ Полезные лекции и интересные статьи по С++
 
@@ -97,33 +102,37 @@
 - [Лекторий ФПМИ (Введение в С++ (1 курс, весна 2021) ЧАСТЬ №2)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYTzwME4vQoDO8ZINM5trra)
 
 - Лекции по С++ от Computer Science Center:
-
   * [Программирование на C++, часть 1 (осень 2018)](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTFea2FYxp7mFfbZW-xavhL)
   * [Программирование на C++, часть 2 (весна 2019)](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRs7YafQ1GgJvyRku10m1RN)
 
-- [Jason Turner (C++ Weekly)](https://www.youtube.com/user/lefticus1)
-- [Сборник разных гайдов/примеров по cmake](https://github.com/onqtam/awesome-cmake)
+- Конференции от C++ User Group
+  * [C++ User Group](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA)
+
+- Сборник материалов на Английском языка (стоит туда заглянуть)
+  * [Jason Turner (C++ Weekly)](https://www.youtube.com/user/lefticus1)
+  * [Сборник разных гайдов/примеров по cmake](https://github.com/onqtam/awesome-cmake)
+  * [Modern C++ and Native Code (converting from bfilipek.com)](https://www.cppstories.com/)
+  * [CppNuts](https://www.youtube.com/user/MrRupeshyadav)
+  * [CppCon](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg)
+  * [Bisqwit](https://www.youtube.com/channel/UCKTehwyGCKF-b2wo0RKwrcg)
+  * [Programming and Technology Tutorials(javidx9)](https://www.youtube.com/c/javidx9/videos)
+  * [Molly Rocket(Handmade Hero)](https://www.youtube.com/c/MollyRocket/videos)
 
 ### ✅Материалы для изучения алгоритмов и структур данных
 
 ---
 
+- [Лекции Маврина Павла](https://www.youtube.com/c/pavelmavrin)
+
 - [ [OTUS] Алгоритмы для разработчиков 2020](https://disk.yandex.ru/d/JYgqgDt9-7_EXg?w=1)
-
 - [ [Яндекс.Практикум] Алгоритмы для разработчиков 2020](https://disk.yandex.ru/d/hTy9haLKDxrSbQ?w=1)
-
 - [Книги для изучения алгоритмов](https://disk.yandex.ru/d/dQkuPvG9E0nlqQ?w=1)
 
 - Визуальное представление алгоритмов:
-
   * [VisualGo](https://visualgo.net/en)
-
   * [Algorithm Visualizer](https://algorithm-visualizer.org)
 
 - [Algorithms Specialization от Стэндфордского университета (Coursera)](https://www.coursera.org/browse/computer-science/algorithms)
-
-- [Лекции Маврина Павла](https://www.youtube.com/c/pavelmavrin)
-
 - [ФПМИ Алгоритмы и структуры данных](https://www.youtube.com/playlist?list=PL4_hYwCyhAvasUkSNdsUKoqcWpw9xl3i1)
 
 ```EOF```
