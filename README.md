@@ -82,8 +82,8 @@
 
 ---
 - Для ознакомления с языком, если у вас вообще нету опыта.
-  * [Введение в программирование (C++)] (https://stepik.org/course/363/promo)
-  * [Программирование на языке C++] (https://stepik.org/course/7/promo)
+  * [Введение в программирование (C++)](https://stepik.org/course/363/promo)
+  * [Программирование на языке C++](https://stepik.org/course/7/promo)
 
 - Для тех, у кого уже имеются базовые знания.
   * ["Искусство разработки на современном C++" от МФТИ](https://ru.coursera.org/specializations/c-plus-plus-modern-development)
