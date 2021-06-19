@@ -120,7 +120,7 @@
   * [Programming and Technology Tutorials(javidx9)](https://www.youtube.com/c/javidx9/videos)
   * [Molly Rocket(Handmade Hero)](https://www.youtube.com/c/MollyRocket/videos)
 
-### ✅Материалы для изучения алгоритмов и структур данных
+### ✅ Материалы для изучения алгоритмов и структур данных
 
 ---
 
