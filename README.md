@@ -1,11 +1,10 @@
 # C++ FAQ
-В этом репозитории хранится информация о часто
-задаваемых вопросах, ссылки на полезные ресурсы и
-обучающую литературу.
+В этом репозитории хранится информация с часто
+задаваемыми вопросами, ссылки на них и литература к ознакомлению.
 
 ## Полезные ресурсы и материалы по C++:
 
-### ⁉ Как оно работает? Как делать правильно?
+### !? Как оно работает? Как делать правильно?
 
 ---
 
@@ -15,7 +14,7 @@
 * [Как писать на современном C++](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 * [Паттерны проектирования](https://refactoring.guru/ru/design-patterns/cpp)
 * [Идиомы языка С++](https://en.m.wikibooks.org/wiki/More_C%2B%2B_Idioms)
-* [Курируемый список потрясающих C/C++ фреймворков, библиотек, ресурсов и блестящих вещей](https://cpp.libhunt.com)
+* [Курируемый список потрясающих C/C++ фреймворков, библиотек, ресурсов,а также блестящих работ](https://cpp.libhunt.com)
 * [Руины древней цивилизации (stackoverflow)](stackoverflow.com)
 
 ### ⁉ Где(как) запустить, посмотреть и поделиться кодом?
@@ -28,11 +27,11 @@
 * [Quicktype - Генератор классов по JSON-схеме](https://quicktype.io/)
 * [C gibberish ↔ English](https://cdecl.org/)
 
-- Удобные сервисы для размещения кода:
+- Сервисы для размещение вашего кода:
   * [GitHub Gist](https://gist.github.com)
   * [Pastebin](https://pastebin.com)
 
-### ✅ Ресурсы с задачами для практики
+### ✅ Ресурсы с задачами для практики и тренировок
 
 ---
 
@@ -87,29 +86,28 @@
 - Jacek Galowicz "C++17 STL Cookbook"
 - Vardan Grigoryan, Shunguang Wu "Expert C++ - Become a proficient programmer by learning coding best practices with C++17 and C++20's latest features"
 - David Vandevoorde, Nicolai M. Josuttis, Douglas Gregor "C++ Templates - The Complete Guide" (2nd edition)
-За
 
 - [Пополняющаяся библиотека полезной литературы](https://disk.yandex.ru/d/3p7CqGmDVslLiA?w=1)
 
 ### ✅ Курсы по С++ для начинающих и не только
 
 ---
-- Для ознакомления с языком, если у вас вообще нету опыта.
-  * [Введение в программирование (C++)](https://stepik.org/course/363/promo)
-  * [Программирование на языке C++](https://stepik.org/course/7/promo)
+- Для ознакомления с языком, если у вас вообще нет опыта.
+  * [Введение в программирование C++ ](https://stepik.org/course/363/promo)
+  * [Программирование на языке C++ ](https://stepik.org/course/7/promo)
 
-- Для тех, у кого уже имеются базовые знания.
+- Для тех, кто имеет уже базовые знания в языке.
   * ["Искусство разработки на современном C++" от МФТИ](https://ru.coursera.org/specializations/c-plus-plus-modern-development)
   * [ [OTUS] С++ для начинающих разработчиков 2020](https://disk.yandex.ru/d/kcsmDi1uDcKdcw?w=1)
   * [ [OTUS] "Разработчик C++ 2020"](https://disk.yandex.ru/d/01KzEC-oIrpUqA?w=1)
 
-### ✅ Полезные лекции и интересные статьи по С++
+### ✅ Полезные, а также интересные лекции и статьи по С++
 
 ---
 
-- [Отличные статьи по С++ и не только](http://scrutator.me/)
+- [Отличные статьи по С++, но и не только](http://scrutator.me/)
 
-- [Великолепные лекции по С++ от преподавателя МФТИ](https://www.youtube.com/channel/UCvmBEbr9NZt7UEh9doI7n_A/featured)
+- [Великолепные лекции по С++ от одного из известных преподователей из МФТИ](https://www.youtube.com/channel/UCvmBEbr9NZt7UEh9doI7n_A/featured)
 
 - [Лекторий ФПМИ (Введение в С++ (1 курс, осень 2020) ЧАСТЬ №1)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvazfCDGyS0wx_hvBmnAAf4h)
 - [Лекторий ФПМИ (Введение в С++ (1 курс, весна 2021) ЧАСТЬ №2)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYTzwME4vQoDO8ZINM5trra)
@@ -118,10 +116,10 @@
   * [Программирование на C++, часть 1 (осень 2018)](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTFea2FYxp7mFfbZW-xavhL)
   * [Программирование на C++, часть 2 (весна 2019)](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRs7YafQ1GgJvyRku10m1RN)
 
-- Конференции от C++ User Group
+- Конференции C++ User Group
   * [C++ User Group](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA)
 
-- Сборник материалов на Английском языка (стоит туда заглянуть)
+- Сборник материалов на Английском языке (Сюда стоит посмотреть)
   * [Jason Turner (C++ Weekly)](https://www.youtube.com/user/lefticus1)
   * [Сборник разных гайдов/примеров по cmake](https://github.com/onqtam/awesome-cmake)
   * [Modern C++ and Native Code (converting from bfilipek.com)](https://www.cppstories.com/)
@@ -135,7 +133,7 @@
 
 ---
 
-- [Лекции Маврина Павла](https://www.youtube.com/c/pavelmavrin)
+- [Лекции Павла Марвина](https://www.youtube.com/c/pavelmavrin)
 
 - [ [OTUS] Алгоритмы для разработчиков 2020](https://disk.yandex.ru/d/JYgqgDt9-7_EXg?w=1)
 - [ [Яндекс.Практикум] Алгоритмы для разработчиков 2020](https://yadi.sk/d/igBICEE1ST6NNg)
