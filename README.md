@@ -76,9 +76,20 @@
 - Объектно-ориентированное программирование в С++ Лафоре Роберт
   * [Скачать книгу](https://disk.yandex.ru/i/c95yr9T1iVnkbg)
 
-- [Пополняющаяся библиотека полезной литературы](https://disk.yandex.ru/d/3p7CqGmDVslLiA?w=1)
+- Полезная информация для начинающих!!!
+  * [Посмотреть](https://www.cyberforum.ru/cpp-beginners/thread1922328.html)
 
-- [Телеграм канал с большим количеством полезной литературы]( https://t.me/bzd_channel)
+"Жизнь после Праты"
+- Scott Meyers "Effective Modern C++ - 42 SPECIFIC WAYS TO IMPROVE YOUR USE OF C++11 AND C++14"
+- Ivor Horton Peter Van Weert  "Beginning C++20 - From Novice to Professional" (6th edition)
+- Nicolai M. Josuttis "С++17 The Complete Guide"
+- Marc Gregorie "Professional C++" (4th edition)
+- Jacek Galowicz "C++17 STL Cookbook"
+- Vardan Grigoryan, Shunguang Wu "Expert C++ - Become a proficient programmer by learning coding best practices with C++17 and C++20's latest features"
+- David Vandevoorde, Nicolai M. Josuttis, Douglas Gregor "C++ Templates - The Complete Guide" (2nd edition)
+За
+
+- [Пополняющаяся библиотека полезной литературы](https://disk.yandex.ru/d/3p7CqGmDVslLiA?w=1)
 
 ### ✅ Курсы по С++ для начинающих и не только
 
@@ -128,7 +139,7 @@
 
 - [ [OTUS] Алгоритмы для разработчиков 2020](https://disk.yandex.ru/d/JYgqgDt9-7_EXg?w=1)
 - [ [Яндекс.Практикум] Алгоритмы для разработчиков 2020](https://disk.yandex.ru/d/hTy9haLKDxrSbQ?w=1)
-- [Книги для изучения алгоритмов](https://disk.yandex.ru/d/dQkuPvG9E0nlqQ?w=1)
+- [Книги для изучения алгоритмов](https://yadi.sk/d/igBICEE1ST6NNg)
 
 - Визуальное представление алгоритмов:
   * [VisualGo](https://visualgo.net/en)
