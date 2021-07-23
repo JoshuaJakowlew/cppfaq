@@ -95,6 +95,7 @@
 - Для ознакомления с языком, если у вас вообще нет опыта.
   * [Введение в программирование C++ ](https://stepik.org/course/363/promo)
   * [Программирование на языке C++ ](https://stepik.org/course/7/promo)
+  * [Изучение синтаксиса С++ с примерами](https://www.programiz.com/cpp-programming)
 
 - Для тех, кто имеет уже базовые знания в языке.
   * ["Искусство разработки на современном C++" от МФТИ](https://ru.coursera.org/specializations/c-plus-plus-modern-development)
