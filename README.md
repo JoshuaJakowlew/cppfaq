@@ -4,7 +4,7 @@
 
 ## Полезные ресурсы и материалы по C++:
 
-### !? Как оно работает? Как делать правильно?
+### ❗❓ Как оно работает и как делать правильно  ❗❓ ###
 
 ---
 
@@ -17,7 +17,8 @@
 * [Курируемый список потрясающих C/C++ фреймворков, библиотек, ресурсов,а также блестящих работ](https://cpp.libhunt.com)
 * [Руины древней цивилизации (stackoverflow)](stackoverflow.com)
 
-### ⁉ Где(как) запустить, посмотреть и поделиться кодом?
+
+### ❗❓ Где(как) запустить, посмотреть и поделиться кодом ❗❓ ###
 
 ---
 
@@ -40,7 +41,7 @@
 * [Codewars](https://codewars.com/kata/search/cpp?q=&&beta)
 * [LeetCode](https://leetcode.com/)
 
-###  ⁉ Нововведения С++
+###  ❗❓ Нововведения С++ ❗❓ ###
 
 ---
 
@@ -60,22 +61,19 @@
 
 ---
 
-- "C++ Primer Plus", Stephen Prata
-- Стивен Прата: Язык программирования C++. Лекции и упражнения
+-  Стивен Прата: Язык программирования C++. Лекции и упражнения
   * [Скачать книгу](https://disk.yandex.ru/i/QSR598p9CpG5tA)
 
-- "C++ Primer" [5th Edition], Stanley B. Lippman, Josée Lajoie, Barbara E. Moo
-- Б. Липпман - Язык программирования C++. Базовый курс.
+-  Б. Липпман - Язык программирования C++. Базовый курс.
   * [Скачать книгу](https://disk.yandex.ru/i/O_9ghFjZMr8bBA)
 
-- "Programming: Principles and Practice Using C++", Bjarne Stroustrup
-- Принципы и практика с использованием C++ Б. Страуструп
+-  Принципы и практика с использованием C++ Б. Страуструп
   * [Скачать книгу](https://disk.yandex.ru/i/1EJ6hlr7g_glhw)
 
-- Объектно-ориентированное программирование в С++ Лафоре Роберт
+-  Объектно-ориентированное программирование в С++ Лафоре Роберт
   * [Скачать книгу](https://disk.yandex.ru/i/c95yr9T1iVnkbg)
 
-- Полезная информация для начинающих!!!
+-  Полезная информация для начинающих!!!
   * [Посмотреть](https://www.cyberforum.ru/cpp-beginners/thread1922328.html)
 
 "Жизнь после Праты"
@@ -98,17 +96,17 @@
   * [Изучение синтаксиса С++ с примерами](https://www.programiz.com/cpp-programming)
 
 - Для тех, кто имеет уже базовые знания в языке.
-  * ["Искусство разработки на современном C++" от МФТИ](https://ru.coursera.org/specializations/c-plus-plus-modern-development)
-  * [ [OTUS] С++ для начинающих разработчиков 2020](https://disk.yandex.ru/d/kcsmDi1uDcKdcw?w=1)
+  * [ [МФТИ] "Искусство разработки на современном C++"](https://ru.coursera.org/specializations/c-plus-plus-modern-development)
+  * [ [OTUS] "С++ для начинающих разработчиков 2020"](https://disk.yandex.ru/d/kcsmDi1uDcKdcw?w=1)
   * [ [OTUS] "Разработчик C++ 2020"](https://disk.yandex.ru/d/01KzEC-oIrpUqA?w=1)
 
 ### ✅ Полезные, а также интересные лекции и статьи по С++
 
 ---
 
-- [Отличные статьи по С++, но и не только](http://scrutator.me/)
+- [Отличные статьи по С++](http://scrutator.me/)
 
-- [Великолепные лекции по С++ от одного из известных преподователей из МФТИ](https://www.youtube.com/channel/UCvmBEbr9NZt7UEh9doI7n_A/featured)
+- [Великолепные лекции по С++ от Константина Владимирова(LLVM Compiler Devloper)](https://www.youtube.com/channel/UCvmBEbr9NZt7UEh9doI7n_A/featured)
 
 - [Лекторий ФПМИ (Введение в С++ (1 курс, осень 2020) ЧАСТЬ №1)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvazfCDGyS0wx_hvBmnAAf4h)
 - [Лекторий ФПМИ (Введение в С++ (1 курс, весна 2021) ЧАСТЬ №2)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYTzwME4vQoDO8ZINM5trra)
