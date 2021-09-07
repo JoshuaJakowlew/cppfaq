@@ -50,7 +50,7 @@
 - [Нововведения С++14](https://www.youtube.com/watch?v=5TTS9zr9PGk&ab_channel=PVS-StudioRu)
   * [Список нововведений  С++14](https://en.cppreference.com/w/cpp/14)
 - [Нововведения С++17](https://www.youtube.com/watch?v=rRMgJEZVY04&ab_channel=PVS-StudioRu)
-  * [Список нововведений  С++17](https://en.cppreference.com/w/cpp/11)
+  * [Список нововведений  С++17](https://en.cppreference.com/w/cpp/17)
 - [Нововведения С++20](https://www.youtube.com/watch?v=KPuYn_fUdxc&t=3s&ab_channel=PVS-StudioRu)
   * [Список нововведений  С++20](https://en.cppreference.com/w/cpp/20)
   * [Список нововведений  С++23](https://en.cppreference.com/w/cpp/23)
