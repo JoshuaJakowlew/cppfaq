@@ -61,20 +61,15 @@
 
 ---
 
--  Стивен Прата: Язык программирования C++. Лекции и упражнения
-  * [Скачать книгу](https://disk.yandex.ru/i/QSR598p9CpG5tA)
+-  Стивен Прата: Язык программирования C++. Лекции и упражнения [[Скачать книгу](https://disk.yandex.ru/i/QSR598p9CpG5tA)]
 
--  Б. Липпман - Язык программирования C++. Базовый курс.
-  * [Скачать книгу](https://disk.yandex.ru/i/O_9ghFjZMr8bBA)
+-  Б. Липпман - Язык программирования C++. Базовый курс. [[Скачать книгу](https://disk.yandex.ru/i/O_9ghFjZMr8bBA)]
 
--  Принципы и практика с использованием C++ Б. Страуструп
-  * [Скачать книгу](https://disk.yandex.ru/i/1EJ6hlr7g_glhw)
+-  Принципы и практика с использованием C++ Б. Страуструп [[Скачать книгу](https://disk.yandex.ru/i/1EJ6hlr7g_glhw)]
 
--  Объектно-ориентированное программирование в С++ Лафоре Роберт
-  * [Скачать книгу](https://disk.yandex.ru/i/c95yr9T1iVnkbg)
+-  Объектно-ориентированное программирование в С++ Лафоре Роберт [[Скачать книгу](https://disk.yandex.ru/i/c95yr9T1iVnkbg)]
 
--  Полезная информация для начинающих!!!
-  * [Посмотреть](https://www.cyberforum.ru/cpp-beginners/thread1922328.html)
+-  Полезная информация для начинающих!!! [[Посмотреть](https://www.cyberforum.ru/cpp-beginners/thread1922328.html)]
 
 "Жизнь после Праты"
 - Scott Meyers "Effective Modern C++ - 42 SPECIFIC WAYS TO IMPROVE YOUR USE OF C++11 AND C++14"
@@ -85,7 +80,7 @@
 - Vardan Grigoryan, Shunguang Wu "Expert C++ - Become a proficient programmer by learning coding best practices with C++17 and C++20's latest features"
 - David Vandevoorde, Nicolai M. Josuttis, Douglas Gregor "C++ Templates - The Complete Guide" (2nd edition)
 
-- [Пополняющаяся библиотека полезной литературы](https://disk.yandex.ru/d/3p7CqGmDVslLiA?w=1)
+- [[Пополняющаяся библиотека полезной литературы](https://disk.yandex.ru/d/3p7CqGmDVslLiA?w=1)]
 
 ### ✅ Курсы по С++ для начинающих и не только
 
@@ -99,8 +94,8 @@
   * [ [МФТИ] "Искусство разработки на современном C++"](https://ru.coursera.org/specializations/c-plus-plus-modern-development)
   * [ [OTUS] "С++ для начинающих разработчиков 2020"](https://disk.yandex.ru/d/kcsmDi1uDcKdcw?w=1)
   * [ [OTUS] "Разработчик C++ 2020"](https://disk.yandex.ru/d/01KzEC-oIrpUqA?w=1)
-
-### ✅ Полезные, а также интересные лекции и статьи по С++
+   
+### ✅ Полезные, а также интересные лекции и статьи в мире С++
 
 ---
 
@@ -127,6 +122,27 @@
   * [Bisqwit](https://www.youtube.com/channel/UCKTehwyGCKF-b2wo0RKwrcg)
   * [Programming and Technology Tutorials(javidx9)](https://www.youtube.com/c/javidx9/videos)
   * [Molly Rocket(Handmade Hero)](https://www.youtube.com/c/MollyRocket/videos)
+
+---
+
+### ✅ Полезные материалы по Cmake
+
+- Основные ссылки
+  * [Официальный сайт системы автоматизации сборки программного обеспечения Cmake](https://cmake.org/)
+  * [Документация](https://cmake.org/documentation/)
+
+- Cтатьи
+  * [Полное руководство по CMake. Часть первая: Синтаксис](https://habr.com/ru/post/431428/)
+  * [Полное руководство по CMake. Часть вторая: Система сборки](https://habr.com/ru/post/432096/)
+  * [Полное руководство по CMake. Часть третья: Тестирование и пакетирование](https://habr.com/ru/post/433822/)
+
+- Лекции/Видео/Tutorials
+  * [Сборка проектов на C++ с использованием CMake [OTUS]](https://www.youtube.com/watch?v=LZwEtbc9gEA)
+  * [CMake с нуля [SimpleCODING!] :)](https://www.youtube.com/playlist?list=PL6x9Hnsyqn2UwWjSvjCzAY6sEOBrHY7VH)
+
+- Книги/Справочники
+  * [Программирование: система построения проектов cmake [Дубров Д.В.]](https://disk.yandex.ru/i/IvnzEcNJseJbMw)
+  * [CMake Cookbook](https://disk.yandex.ru/i/jwBzh2_JcIViTw)
 
 ### ✅ Материалы для изучения алгоритмов и структур данных
 
