@@ -156,6 +156,7 @@
 - [ [OTUS] Алгоритмы для разработчиков 2020](https://disk.yandex.ru/d/JYgqgDt9-7_EXg?w=1)
 - [ [Яндекс.Практикум] Алгоритмы для разработчиков 2020](https://yadi.sk/d/igBICEE1ST6NNg)
 - [Книги для изучения алгоритмов](https://yadi.sk/d/dQkuPvG9E0nlqQ)
+- [Реализации алгоритмов на C++](https://github.com/TheAlgorithms/C-Plus-Plus)
 
 - Визуальное представление алгоритмов:
   * [VisualGo](https://visualgo.net/en)
