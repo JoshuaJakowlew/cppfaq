@@ -39,7 +39,7 @@
 
 - Telegram каналы по C++
   * [pro.cxx (Для людей с опытом)](https://t.me/ProCxx)
-  * [supapro.cxx (Чат для тех, кто немного знает C++)](https://t.me/ProCxx)
+  * [supapro.cxx (Чат для тех, кто немного знает C++)](https://t.me/supapro)
 
 - Беседы в VK.COM по C++
   * [Nemezida C++](https://vk.me/join/7tQtOXRZLIPkOh46aN5nN4WNEir47wHYtBE=)
