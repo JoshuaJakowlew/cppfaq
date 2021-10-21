@@ -82,6 +82,7 @@
 - Jacek Galowicz "C++17 STL Cookbook"
 - Vardan Grigoryan, Shunguang Wu "Expert C++ - Become a proficient programmer by learning coding best practices with C++17 and C++20's latest features"
 - David Vandevoorde, Nicolai M. Josuttis, Douglas Gregor "C++ Templates - The Complete Guide" (2nd edition)
+- Antony Polukhin, Boost C++ Application Development Cookbook
 
 - [[Пополняющаяся библиотека полезной литературы](https://disk.yandex.ru/d/3p7CqGmDVslLiA?w=1)]
 
@@ -105,9 +106,11 @@
 - [Отличные статьи по С++](http://scrutator.me/)
 
 - [Великолепные лекции по С++ от Константина Владимирова(LLVM Compiler Devloper)](https://www.youtube.com/channel/UCvmBEbr9NZt7UEh9doI7n_A/featured)
+- [C++ базовый курс, MIPT, ILab](https://www.youtube.com/watch?v=Bym7UMqpVEY&list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK)
 
 - [Лекторий ФПМИ (Введение в С++ (1 курс, осень 2020) ЧАСТЬ №1)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvazfCDGyS0wx_hvBmnAAf4h)
 - [Лекторий ФПМИ (Введение в С++ (1 курс, весна 2021) ЧАСТЬ №2)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYTzwME4vQoDO8ZINM5trra)
+- [Лекторий ФПМИ (Введение в С++ (1 курс, осень-весна 2021-2022))](https://www.youtube.com/playlist?list=PLSaMkqCXRp4Jen1F8YHJpxlj64hJhdoCS)
 
 - Лекции по С++ от Computer Science Center:
   * [Программирование на C++, часть 1 (осень 2018)](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTFea2FYxp7mFfbZW-xavhL)
@@ -152,6 +155,9 @@
 ---
 
 - [Лекции Павла Марвина](https://www.youtube.com/c/pavelmavrin)
+
+- [Тренировки по алгоритмам [Яндекс]](https://yandex.ru/yaintern/algorithm-training)
+   * Тренировки по алгоритмам от Яндекса [Плейлист](https://www.youtube.com/watch?v=QLhqYNsPIVo&list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5)
 
 - [ [OTUS] Алгоритмы для разработчиков 2020](https://disk.yandex.ru/d/JYgqgDt9-7_EXg?w=1)
 - [ [Яндекс.Практикум] Алгоритмы для разработчиков 2020](https://yadi.sk/d/igBICEE1ST6NNg)
