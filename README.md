@@ -184,4 +184,9 @@
 - [Algorithms Specialization от Стэндфордского университета (Coursera)](https://www.coursera.org/browse/computer-science/algorithms)
 - [ФПМИ Алгоритмы и структуры данных](https://www.youtube.com/playlist?list=PL4_hYwCyhAvasUkSNdsUKoqcWpw9xl3i1)
 
+### ✅ Материалы для изучения технологий программирования и архитектуры ✅ ###
+
+- [Курс семинаров Никита Старичков](https://youtube.com/playlist?list=PL4_hYwCyhAvaTVSzXsvFQlb-FmNqUNkPT)
+
+
 ```EOF```
