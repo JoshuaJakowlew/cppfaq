@@ -186,7 +186,7 @@
 
 ### ✅ Материалы для изучения технологий программирования и архитектуры ✅ ###
 
-- [Курс семинаров Никита Старичков](https://youtube.com/playlist?list=PL4_hYwCyhAvaTVSzXsvFQlb-FmNqUNkPT)
+- [Курс семинаров Никиты Старичкова](https://youtube.com/playlist?list=PL4_hYwCyhAvaTVSzXsvFQlb-FmNqUNkPT)
 
 
 ```EOF```
