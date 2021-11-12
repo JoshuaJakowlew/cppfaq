@@ -167,6 +167,7 @@
 
 ---
 
+- [Алгоритмы - Теория и Реализация](https://ru.algorithmica.org/cs/graph-traversals/cycle/)
 - [Лекции Павла Марвина](https://www.youtube.com/c/pavelmavrin)
 
 - [Тренировки по алгоритмам [Яндекс]](https://yandex.ru/yaintern/algorithm-training)
