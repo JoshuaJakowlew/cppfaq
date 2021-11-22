@@ -137,6 +137,7 @@
   * [Сборник разных гайдов/примеров по cmake](https://github.com/onqtam/awesome-cmake)
   * [Modern C++ and Native Code (converting from bfilipek.com)](https://www.cppstories.com/)
   * [CppNuts](https://www.youtube.com/user/MrRupeshyadav)
+  * [CppStories](https://www.cppstories.com/p/start-here/)
   * [CppCon](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg)
   * [Bisqwit](https://www.youtube.com/channel/UCKTehwyGCKF-b2wo0RKwrcg)
   * [Programming and Technology Tutorials(javidx9)](https://www.youtube.com/c/javidx9/videos)
