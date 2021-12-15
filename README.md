@@ -18,7 +18,7 @@
 * [Паттерны проектирования](https://refactoring.guru/ru/design-patterns/cpp)
 * [Идиомы языка С++](https://en.m.wikibooks.org/wiki/More_C%2B%2B_Idioms)
 * [Курируемый список потрясающих C/C++ фреймворков, библиотек, ресурсов,а также блестящих работ](https://cpp.libhunt.com)
-* [Руины древней цивилизации (stackoverflow)](stackoverflow.com)
+* [Руины древней цивилизации (stackoverflow)](https://stackoverflow.com)
 
 
 ### ❗❓ Где(как) запустить, посмотреть и поделиться кодом ❗❓ ###
