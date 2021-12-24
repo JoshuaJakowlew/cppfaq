@@ -12,7 +12,7 @@
 ---
 
 * [Документация по С++](https://en.cppreference.com/w)
-* [Документация с визуальным сопровождением](https://hackingcpp.com/)
+* [Документация по С++ с визуальным сопровождением](https://hackingcpp.com/)
 * [Последний драфт стандарта](http://eel.is/c++draft/)
 * [Abstract Syntax Tree](https://cppinsights.io)
 * [Как писать на современном C++](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
