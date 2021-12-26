@@ -11,7 +11,7 @@
 
 ---
 
-* [C++ MeetUp's and another stuff](https://www.youtube.com/channel/UCPT24WNTww2E2rhXzhDIPMA)
+* [Youtube : C++ MeetUp's and another stuff](https://www.youtube.com/channel/UCPT24WNTww2E2rhXzhDIPMA)
 
 ---
 
