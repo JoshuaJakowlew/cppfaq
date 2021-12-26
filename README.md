@@ -11,6 +11,10 @@
 
 ---
 
+* [C++ MeetUp's and another stuff](https://www.youtube.com/channel/UCPT24WNTww2E2rhXzhDIPMA)
+
+---
+
 * [Документация по С++](https://en.cppreference.com/w)
 * [Документация по С++ с визуальным сопровождением](https://hackingcpp.com/)
 * [Последний драфт стандарта](http://eel.is/c++draft/)
