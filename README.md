@@ -122,6 +122,7 @@
 ---
 
 - [Отличные статьи по С++](http://scrutator.me/)
+- [Статьи об особенности производительности программ](https://johnysswlab.com/category/performance/)
 
 - [Великолепные лекции по С++ от Константина Владимирова(LLVM Compiler Devloper)](https://www.youtube.com/channel/UCvmBEbr9NZt7UEh9doI7n_A/featured)
 - [C++ базовый курс, MIPT, ILab](https://www.youtube.com/watch?v=Bym7UMqpVEY&list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK)
@@ -137,6 +138,10 @@
 - Конференции C++ User Group
   * [C++ User Group](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA)
 
+- Полезные статьи
+  * [Настоящая производительность виртуальных функций](https://johnysswlab.com/the-true-price-of-virtual-functions-in-c/)
+
+  
 - Сборник материалов на Английском языке (Сюда стоит посмотреть)
   * [Jason Turner (C++ Weekly)](https://www.youtube.com/user/lefticus1)
   * [Сборник разных гайдов/примеров по cmake](https://github.com/onqtam/awesome-cmake)
@@ -147,6 +152,7 @@
   * [Bisqwit](https://www.youtube.com/channel/UCKTehwyGCKF-b2wo0RKwrcg)
   * [Programming and Technology Tutorials(javidx9)](https://www.youtube.com/c/javidx9/videos)
   * [Molly Rocket(Handmade Hero)](https://www.youtube.com/c/MollyRocket/videos)
+
 
 ---
 
