@@ -11,10 +11,6 @@
 
 ---
 
-* [Youtube : C++ MeetUp's and another stuff](https://www.youtube.com/channel/UCPT24WNTww2E2rhXzhDIPMA)
-
----
-
 * [Документация по С++](https://en.cppreference.com/w)
 * [Документация по С++ с визуальным сопровождением](https://hackingcpp.com/)
 * [Последний драфт стандарта](http://eel.is/c++draft/)
@@ -111,37 +107,36 @@
   * [Введение в программирование C++ ](https://stepik.org/course/363/promo)
   * [Программирование на языке C++ ](https://stepik.org/course/7/promo)
   * [Изучение синтаксиса С++ с примерами](https://www.programiz.com/cpp-programming)
+  * [ [OTUS] "С++ для начинающих разработчиков 2020"](https://disk.yandex.ru/d/kcsmDi1uDcKdcw?w=1)
 
 - Для тех, кто имеет уже базовые знания в языке.
+- * [ [Яндекс Практикум] "Разработчик C++"](https://ru.coursera.org/specializations/c-plus-plus-modern-development)
   * [ [МФТИ] "Искусство разработки на современном C++"](https://ru.coursera.org/specializations/c-plus-plus-modern-development)
-  * [ [OTUS] "С++ для начинающих разработчиков 2020"](https://disk.yandex.ru/d/kcsmDi1uDcKdcw?w=1)
   * [ [OTUS] "Разработчик C++ 2020"](https://disk.yandex.ru/d/01KzEC-oIrpUqA?w=1)
    
 ### ✅ Полезные, а также интересные лекции и статьи в мире С++ ✅ ###
 
 ---
 
-- [Отличные статьи по С++](http://scrutator.me/)
-- [Статьи об особенности производительности программ](https://johnysswlab.com/category/performance/)
+- Лекционный материал.
 
-- [Великолепные лекции по С++ от Константина Владимирова(LLVM Compiler Devloper)](https://www.youtube.com/channel/UCvmBEbr9NZt7UEh9doI7n_A/featured)
-- [C++ базовый курс, MIPT, ILab](https://www.youtube.com/watch?v=Bym7UMqpVEY&list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK)
+  * [ [Константина Владимирова (LLVM Compiler Devloper)] Великолепные лекции по С++](https://www.youtube.com/channel/UCvmBEbr9NZt7UEh9doI7n_A/featured)
+  * [ [Константина Владимирова (LLVM Compiler Devloper)] C++ базовый курс, MIPT, ILab](https://www.youtube.com/watch?v=Bym7UMqpVEY&list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK)
+  ---
+  * [Лекторий ФПМИ (Введение в С++ (1 курс, осень 2020) ЧАСТЬ №1)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvazfCDGyS0wx_hvBmnAAf4h)
+  * [Лекторий ФПМИ (Введение в С++ (1 курс, весна 2021) ЧАСТЬ №2)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYTzwME4vQoDO8ZINM5trra)
+  * [Лекторий ФПМИ (Введение в С++ (1 курс, осень-весна 2021-2022))](https://www.youtube.com/playlist?list=PLSaMkqCXRp4Jen1F8YHJpxlj64hJhdoCS)
+  ---
+  * [ [Computer Science Center] Программирование на C++, часть 1 (осень 2018)](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTFea2FYxp7mFfbZW-xavhL)
+  * [ [Computer Science Center] Программирование на C++, часть 2 (весна 2019)](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRs7YafQ1GgJvyRku10m1RN)
 
-- [Лекторий ФПМИ (Введение в С++ (1 курс, осень 2020) ЧАСТЬ №1)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvazfCDGyS0wx_hvBmnAAf4h)
-- [Лекторий ФПМИ (Введение в С++ (1 курс, весна 2021) ЧАСТЬ №2)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYTzwME4vQoDO8ZINM5trra)
-- [Лекторий ФПМИ (Введение в С++ (1 курс, осень-весна 2021-2022))](https://www.youtube.com/playlist?list=PLSaMkqCXRp4Jen1F8YHJpxlj64hJhdoCS)
-
-- Лекции по С++ от Computer Science Center:
-  * [Программирование на C++, часть 1 (осень 2018)](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTFea2FYxp7mFfbZW-xavhL)
-  * [Программирование на C++, часть 2 (весна 2019)](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRs7YafQ1GgJvyRku10m1RN)
-
-- Конференции C++ User Group
+- Конференции
   * [C++ User Group](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA)
 
 - Полезные статьи
+  * [Отличные статьи по С++](http://scrutator.me/)
   * [Настоящая производительность виртуальных функций](https://johnysswlab.com/the-true-price-of-virtual-functions-in-c/)
 
-  
 - Сборник материалов на Английском языке (Сюда стоит посмотреть)
   * [Jason Turner (C++ Weekly)](https://www.youtube.com/user/lefticus1)
   * [Сборник разных гайдов/примеров по cmake](https://github.com/onqtam/awesome-cmake)
@@ -152,7 +147,6 @@
   * [Bisqwit](https://www.youtube.com/channel/UCKTehwyGCKF-b2wo0RKwrcg)
   * [Programming and Technology Tutorials(javidx9)](https://www.youtube.com/c/javidx9/videos)
   * [Molly Rocket(Handmade Hero)](https://www.youtube.com/c/MollyRocket/videos)
-
 
 ---
 
