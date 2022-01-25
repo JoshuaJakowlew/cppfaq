@@ -112,7 +112,7 @@
   * [ [OTUS] "С++ для начинающих разработчиков 2020"](https://disk.yandex.ru/d/kcsmDi1uDcKdcw?w=1)
 
 - Для тех, кто имеет уже базовые знания в языке.
-- * [ [Яндекс Практикум] "Разработчик C++"](https://ru.coursera.org/specializations/c-plus-plus-modern-development)
+- * [ [Яндекс Практикум] "Разработчик C++"](https://practicum.yandex.ru/profile/cpp/)
   * [ [МФТИ] "Искусство разработки на современном C++"](https://ru.coursera.org/specializations/c-plus-plus-modern-development)
   * [ [OTUS] "Разработчик C++ 2020"](https://disk.yandex.ru/d/01KzEC-oIrpUqA?w=1)
   * [ [Повторение материала] ](https://thispointer.com/c11-tutorial/)
