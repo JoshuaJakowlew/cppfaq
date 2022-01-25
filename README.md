@@ -73,7 +73,6 @@
 - [Нововведения С++20](https://www.youtube.com/watch?v=KPuYn_fUdxc&t=3s&ab_channel=PVS-StudioRu)
   * [Список нововведений С++20](https://en.cppreference.com/w/cpp/20)
   * [Список нововведений С++23](https://en.cppreference.com/w/cpp/23)
-
 - [Список нововведений С++11-23 с примерами](https://github.com/AnthonyCalandra/modern-cpp-features)
 
 ## Учебные материалы
