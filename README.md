@@ -142,7 +142,7 @@
   * [Настоящая производительность виртуальных функций](https://johnysswlab.com/the-true-price-of-virtual-functions-in-c/)
 
 - Полезные выступления
- * [Branchless computing](https://www.youtube.com/watch?v=g-WPhYREFjk)
+  * [Branchless computing](https://www.youtube.com/watch?v=g-WPhYREFjk)
 
 - Сборник материалов на Английском языке (Сюда стоит посмотреть)
   * [Jason Turner (C++ Weekly)](https://www.youtube.com/user/lefticus1)
