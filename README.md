@@ -197,6 +197,8 @@
 
 - [Algorithms Specialization от Стэндфордского университета (Coursera)](https://www.coursera.org/browse/computer-science/algorithms)
 - [ФПМИ Алгоритмы и структуры данных](https://www.youtube.com/playlist?list=PL4_hYwCyhAvasUkSNdsUKoqcWpw9xl3i1)
+- [Алгортимы Ч.1 от Принстонского университета ( Coursera ) ](https://ru.coursera.org/learn/algorithms-part1?action=enroll#syllabus)
+- [Алгортимы Ч.2 от Принстонского университета ( Coursera ) ](https://ru.coursera.org/learn/algorithms-part2)
 
 ### ✅ Материалы для изучения технологий программирования и архитектуры ✅ ###
 
