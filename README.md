@@ -142,6 +142,7 @@
 
 - Полезные статьи
   * [Отличные статьи по С++](http://scrutator.me/)
+  * [User-defined литералы и магия на интринсиках (разные статьи)](https://wunkolo.github.io/)
   * [Настоящая производительность виртуальных функций](https://johnysswlab.com/the-true-price-of-virtual-functions-in-c/)
 
 - Полезные выступления
