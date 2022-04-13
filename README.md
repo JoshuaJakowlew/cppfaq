@@ -40,6 +40,9 @@
 
 ---
 
+- Сообщества в VK.COM по С++
+  * [DevBlogNet ( Статьи по С++ разного жанра ) ](https://vk.com/devblognet)
+
 - Telegram каналы по C++
   * [pro.cxx (Для людей с опытом)](https://t.me/ProCxx)
   * [supapro.cxx (Чат для тех, кто немного знает C++)](https://t.me/supapro)
