@@ -103,6 +103,7 @@
 - Vardan Grigoryan, Shunguang Wu "Expert C++ - Become a proficient programmer by learning coding best practices with C++17 and C++20's latest features"
 - David Vandevoorde, Nicolai M. Josuttis, Douglas Gregor "C++ Templates - The Complete Guide" (2nd edition)
 - Antony Polukhin, Boost C++ Application Development Cookbook
+- Bjorn Andrist, Viktor Sehr, C++ High Performance: Master the art of optimizing the functioning of your C++ code (2nd Edition)
 
 - [[Пополняющаяся библиотека полезной литературы](https://disk.yandex.ru/d/3p7CqGmDVslLiA?w=1)]
 
@@ -177,6 +178,7 @@
   * [CMake с нуля [SimpleCODING!] :)](https://www.youtube.com/playlist?list=PL6x9Hnsyqn2UwWjSvjCzAY6sEOBrHY7VH)
 
 - Книги/Справочники
+  * [Open Source Книга от разработчиков CMake "Mastering CMake"](https://cmake.org/cmake/help/book/mastering-cmake/)
   * [Программирование: система построения проектов cmake [Дубров Д.В.]](https://disk.yandex.ru/i/IvnzEcNJseJbMw)
   * [CMake Cookbook](https://disk.yandex.ru/i/jwBzh2_JcIViTw)
 
