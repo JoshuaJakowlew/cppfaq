@@ -147,7 +147,8 @@
   * [Настоящая производительность виртуальных функций](https://johnysswlab.com/the-true-price-of-virtual-functions-in-c/)
 
 - Полезные выступления
-  * [Branchless computing](https://www.youtube.com/watch?v=g-WPhYREFjk)
+  * [ [CppCon 2021] Branchless Programming in C++ - Fedor Pikus](https://www.youtube.com/watch?v=g-WPhYREFjk)
+  * [ [CppCon 2021] Beyond struct: Meta-programming a struct Replacement in C++20 - John Bandela](https://www.youtube.com/watch?v=FXfrojjIo80)
 
 - Сборник материалов на Английском языке (Сюда стоит посмотреть)
   * [Jason Turner (C++ Weekly)](https://www.youtube.com/user/lefticus1)
