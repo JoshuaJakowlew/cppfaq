@@ -207,7 +207,7 @@
 - [Алгортимы Ч.1 от Принстонского университета ( Coursera ) ](https://ru.coursera.org/learn/algorithms-part1?action=enroll#syllabus)
 - [Алгортимы Ч.2 от Принстонского университета ( Coursera ) ](https://ru.coursera.org/learn/algorithms-part2)
 
-### ✅ Подготовка к собеседованиям : Вопрос-Ответ ✅
+### ✅ Подготовка к собеседованиям ✅
  * [Inerview Questions](https://github.com/ansa-sequence/Interview)
 
 
