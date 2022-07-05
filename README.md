@@ -207,9 +207,8 @@
 - [Алгортимы Ч.1 от Принстонского университета ( Coursera ) ](https://ru.coursera.org/learn/algorithms-part1?action=enroll#syllabus)
 - [Алгортимы Ч.2 от Принстонского университета ( Coursera ) ](https://ru.coursera.org/learn/algorithms-part2)
 
-### ✅ Материалы для изучения технологий программирования и архитектуры ✅ ###
-
-- [Курс семинаров Никиты Старичкова](https://youtube.com/playlist?list=PL4_hYwCyhAvaTVSzXsvFQlb-FmNqUNkPT)
+### ✅ Подготовка к собеседованиям : Вопрос-Ответ ✅
+ * [Inerview Questions](https://github.com/ansa-sequence/Interview)
 
 
 ```EOF```
