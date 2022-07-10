@@ -6,7 +6,7 @@
 
 ### Полезные материалы для подготовки к собеседованию C++ разработчиком ###
 ---
- * [Inerview Questions](https://github.com/ansa-sequence/Interview)
+ * [Interview Questions](https://github.com/ansa-sequence/Interview)
 ---
 ### ❗❓ Как оно работает и как делать правильно  ❗❓ ###
 ---
