@@ -4,6 +4,9 @@
 
 ## Полезные ресурсы и материалы по C++:
 
+## Полезные материалы для подготовки к собеседованию C++ разработчиком
+ * [Inerview Questions](https://github.com/ansa-sequence/Interview)
+
 ### ❗❓ Как оно работает и как делать правильно  ❗❓ ###
 ---
 
@@ -206,9 +209,4 @@
 - [ФПМИ Алгоритмы и структуры данных](https://www.youtube.com/playlist?list=PL4_hYwCyhAvasUkSNdsUKoqcWpw9xl3i1)
 - [Алгортимы Ч.1 от Принстонского университета ( Coursera ) ](https://ru.coursera.org/learn/algorithms-part1?action=enroll#syllabus)
 - [Алгортимы Ч.2 от Принстонского университета ( Coursera ) ](https://ru.coursera.org/learn/algorithms-part2)
-
-### ✅ Подготовка к собеседованиям ✅
- * [Inerview Questions](https://github.com/ansa-sequence/Interview)
-
-
 ```EOF```
