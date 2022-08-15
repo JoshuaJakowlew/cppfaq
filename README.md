@@ -70,6 +70,8 @@
   * [Список нововведений С++23](https://en.cppreference.com/w/cpp/23)
 - [Список нововведений С++11-23 с примерами](https://github.com/AnthonyCalandra/modern-cpp-features)
 
+## Учебные материалы
+
 ---
 
 ### :heavy_check_mark: Ресурсы с задачами для практики и тренировок :heavy_check_mark: ###
@@ -79,13 +81,10 @@
 * [Codewars](https://codewars.com/kata/search/cpp?q=&&beta)
 * [LeetCode](https://leetcode.com/)
 
-
-
-## Учебные материалы
+---
 
 ### :heavy_check_mark: Книги для начинающих :heavy_check_mark: ###
 
----
 -  Б. Липпман - Язык программирования C++. Базовый курс. [[Скачать книгу](https://disk.yandex.ru/i/O_9ghFjZMr8bBA)]
 -  Стивен Прата: Язык программирования C++. Лекции и упражнения [[Скачать книгу](https://disk.yandex.ru/i/QSR598p9CpG5tA)]
 
@@ -108,9 +107,10 @@
 
 - [[Пополняющаяся библиотека полезной литературы](https://disk.yandex.ru/d/3p7CqGmDVslLiA?w=1)]
 
+---
+
 ### :heavy_check_mark: Курсы по С++ для начинающих и не только :heavy_check_mark: ###
 
----
 - Для ознакомления с языком, если у вас вообще нет опыта.
   * [Введение в программирование C++ ](https://stepik.org/course/363/promo)
   * [Программирование на языке C++ ](https://stepik.org/course/7/promo)
@@ -122,10 +122,10 @@
   * [ [МФТИ] "Искусство разработки на современном C++"](https://ru.coursera.org/specializations/c-plus-plus-modern-development)
   * [ [OTUS] "Разработчик C++ 2020"](https://disk.yandex.ru/d/01KzEC-oIrpUqA?w=1)
   * [ [Повторение материала] ](https://thispointer.com/c11-tutorial/)
-   
-### :heavy_check_mark: Полезные, а также интересные лекции и статьи в мире С++ :heavy_check_mark: ###
-
+ 
 ---
+ 
+### :heavy_check_mark: Полезные, а также интересные лекции и статьи в мире С++ :heavy_check_mark: ###
 
 - Лекционный материал.
 
@@ -184,9 +184,9 @@
   * [Программирование: система построения проектов cmake [Дубров Д.В.]](https://disk.yandex.ru/i/IvnzEcNJseJbMw)
   * [CMake Cookbook](https://disk.yandex.ru/i/jwBzh2_JcIViTw)
 
-### :heavy_check_mark: Материалы для изучения алгоритмов и структур данных :heavy_check_mark: ###
-
 ---
+
+### :heavy_check_mark: Материалы для изучения алгоритмов и структур данных :heavy_check_mark: ###
 
 - [Алгоритмы - Теория и Реализация](https://ru.algorithmica.org/cs/graph-traversals/cycle/)
 - [Лекции Павла Марвина](https://www.youtube.com/c/pavelmavrin)
@@ -207,4 +207,7 @@
 - [ФПМИ Алгоритмы и структуры данных](https://www.youtube.com/playlist?list=PL4_hYwCyhAvasUkSNdsUKoqcWpw9xl3i1)
 - [Алгортимы Ч.1 от Принстонского университета ( Coursera ) ](https://ru.coursera.org/learn/algorithms-part1?action=enroll#syllabus)
 - [Алгортимы Ч.2 от Принстонского университета ( Coursera ) ](https://ru.coursera.org/learn/algorithms-part2)
-```EOF```
+
+---
+
+```EOF``` :floppy_disk:
