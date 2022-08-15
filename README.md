@@ -68,7 +68,6 @@
   * [Список нововведений С++20](https://en.cppreference.com/w/cpp/20)
 - [Нововведения С++23](https://www.youtube.com/watch?v=mQzijnbnTO4&t=968s)
   * [Список нововведений С++23](https://en.cppreference.com/w/cpp/23)
-  
 - [Список нововведений С++11-23 с примерами](https://github.com/AnthonyCalandra/modern-cpp-features)
 
 ---
