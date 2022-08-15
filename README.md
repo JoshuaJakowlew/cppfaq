@@ -1,62 +1,45 @@
 # C++ FAQ
-В этом репозитории хранится информация с часто
-задаваемыми вопросами, ссылки на них и литература к ознакомлению.
+В этом репозитории собрана информация с часто
+задаваемыми вопросами и полезными источниками.
 
-## Полезные ресурсы и материалы по C++:
+### ❗❓ Как оно работает ❗❓ ###
+##### Основные источники к которым обращаются разработчики на С++ когда возникает вопрос, а как это работает (должно работать) #####
 
-### ❗❓ Материалы и Вопросы для подготовки к собеседованию C++ разработчиком ❗❓ ###
----
- * [Interview Questions](https://github.com/ansa-sequence/Interview)
----
-### ❗❓ Как оно работает и как делать правильно  ❗❓ ###
----
+* [Документация по С++ (cppreference)](https://en.cppreference.com/w)
+* [Последний драфт стандарта (Working Draft)](http://eel.is/c++draft/)
+* [Платформа вопросов и ответов по программированию (stackoverflow)](https://stackoverflow.com/questions/tagged/c%2b%2b)
+* [Взгляните на свой исходный код глазами компилятора (C++ Insights)](https://cppinsights.io)
 
-* [С++ Developer mindmap](https://miro.com/app/board/o9J_lFH_iBs=/)
-
----
-
-* [Документация по С++](https://en.cppreference.com/w)
-* [Документация по С++ с визуальным сопровождением](https://hackingcpp.com/)
-* [Последний драфт стандарта](http://eel.is/c++draft/)
-* [Abstract Syntax Tree](https://cppinsights.io)
-* [Как писать на современном C++](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
-* [Паттерны проектирования](https://refactoring.guru/ru/design-patterns/cpp)
-* [Идиомы языка С++](https://en.m.wikibooks.org/wiki/More_C%2B%2B_Idioms)
-* [Курируемый список потрясающих C/C++ фреймворков, библиотек, ресурсов,а также блестящих работ](https://cpp.libhunt.com)
-* [Руины древней цивилизации (stackoverflow)](https://stackoverflow.com)
-
-
-### ❗❓ Где(как) запустить, посмотреть и поделиться кодом ❗❓ ###
+### ❗❓ Где (как) запустить, посмотреть и поделиться кодом ❗❓ ###
+##### Основные сервисы с помощью которых можно собрать, запустить, протестировать, разместить ваш програмный код #####
 
 ---
 
-* [GodBolt - Online DisAsm/Compiler](https://godbolt.org)
-* [WandBox - Online Compiler](https://wandbox.org/)
-* [Repl.it - Online IDE](https://repl.it/languages/cpp)
-* [Quicktype - Генератор классов по JSON-схеме](https://quicktype.io/)
-* [C gibberish ↔ English](https://cdecl.org/)
+- Сервисы для сборки и запуска кода:
+  * [GodBolt - ](https://godbolt.org)
 
-- Сервисы для размещение вашего кода:
+- Сервисы для профилирования кода:
+  * [Perfbench](https://perfbench.com/)
+  * [Quick-Bench](https://quick-bench.com/)
+  
+- Сервисы для размещение кода:
   * [GitHub Gist](https://gist.github.com)
   * [Pastebin](https://pastebin.com)
 
 ### ❗❓ Где(кто) мне может помочь, проконсультировать ❗❓ ###
-
+##### Основные сообщества в различных социальных сетях, где можно поучаствовать в обсуждении вопросов и решение проблем #####
 ---
 
-- Сообщества в VK.COM по С++
-  * [DevBlogNet ( Статьи по С++ разного жанра ) ](https://vk.com/devblognet)
-
-- Telegram каналы по C++
+- Telegram каналы
   * [pro.cxx (Для людей с опытом)](https://t.me/ProCxx)
   * [supapro.cxx (Чат для тех, кто немного знает C++)](https://t.me/supapro)
 
-- Беседы в VK.COM по C++
+- Беседы в Vk.com
   * [Nemezida C++](https://vk.me/join/7tQtOXRZLIPkOh46aN5nN4WNEir47wHYtBE=)
   * [Nemezida Flood](https://vk.me/join/r2GYEBn3TqU9UI5hXBq917IrDXCTOTpT5mU=)
-  * [С++ CODE BLOG](https://vk.me/join/nvk47HgezGDt485EsI9V9AT6f2I7SGGQSOc=)
+  * [С++ беседа от группы code blog](https://vk.me/join/nvk47HgezGDt485EsI9V9AT6f2I7SGGQSOc=)
 
-```TODO```
+```TODO``` (Если вы знаете еще какие-то интересные сообщества, [оповестите нас](https://github.com/JoshuaJakowlew/cppfaq/issues)!) 
 
 ### ✅ Ресурсы с задачами для практики и тренировок ✅ ###
 
