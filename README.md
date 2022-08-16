@@ -57,24 +57,26 @@
 ---
 
 ### :heavy_check_mark: Нововведения С++ :heavy_check_mark: ###
+##### Список выпущенных стандартов языка и изменения которые они привнесли #####
 
-- [Нововведения С++11](https://www.youtube.com/watch?v=ZOmZCj5ijck&ab_channel=PVS-StudioRu)
+- [Нововведения С++11 (Видео)](https://www.youtube.com/watch?v=ZOmZCj5ijck&ab_channel=PVS-StudioRu)
   * [Список нововведений С++11](https://en.cppreference.com/w/cpp/11)
-- [Нововведения С++14](https://www.youtube.com/watch?v=5TTS9zr9PGk&ab_channel=PVS-StudioRu)
+- [Нововведения С++14 (Видео)](https://www.youtube.com/watch?v=5TTS9zr9PGk&ab_channel=PVS-StudioRu)
   * [Список нововведений С++14](https://en.cppreference.com/w/cpp/14)
-- [Нововведения С++17](https://www.youtube.com/watch?v=rRMgJEZVY04&ab_channel=PVS-StudioRu)
+- [Нововведения С++17 (Видео)](https://www.youtube.com/watch?v=rRMgJEZVY04&ab_channel=PVS-StudioRu)
   * [Список нововведений С++17](https://en.cppreference.com/w/cpp/17)
-- [Нововведения С++20](https://www.youtube.com/watch?v=KPuYn_fUdxc&t=3s&ab_channel=PVS-StudioRu)
+- [Нововведения С++20 (Видео)](https://www.youtube.com/watch?v=KPuYn_fUdxc&t=3s&ab_channel=PVS-StudioRu)
   * [Список нововведений С++20](https://en.cppreference.com/w/cpp/20)
-- [Нововведения С++23](https://www.youtube.com/watch?v=mQzijnbnTO4&t=968s)
+- [Нововведения С++23 (Видео)](https://www.youtube.com/watch?v=mQzijnbnTO4&t=968s)
   * [Список нововведений С++23](https://en.cppreference.com/w/cpp/23)
 - [Список нововведений С++11-23 с примерами](https://github.com/AnthonyCalandra/modern-cpp-features)
 
-## Учебные материалы
+### Учебные материалы
 
 ---
 
 ### :heavy_check_mark: Ресурсы с задачами для практики и тренировок :heavy_check_mark: ###
+##### Список сайтов на которых можно применить и отточить свои знания #####
 
 * [Hackerrank](https://www.hackerrank.com/domains/cpp)
 * [CodeForces](https://codeforces.com/)
@@ -83,29 +85,26 @@
 
 ---
 
-### :heavy_check_mark: Книги для начинающих :heavy_check_mark: ###
+### :heavy_check_mark: Книги для изучения языка :heavy_check_mark: ###
+##### Список книг на которые стоит обратить свое внимание (разделены на 3 уровня сложности) #####
 
--  Б. Липпман - Язык программирования C++. Базовый курс. [[Скачать книгу](https://disk.yandex.ru/i/O_9ghFjZMr8bBA)]
--  Стивен Прата: Язык программирования C++. Лекции и упражнения [[Скачать книгу](https://disk.yandex.ru/i/QSR598p9CpG5tA)]
-
-   `Эта книга не очень хорошо адаптирована под современный С++, возможно, это не лучший выбор в качестве первого пособия`
-
--  Принципы и практика с использованием C++ Б. Страуструп [[Скачать книгу](https://disk.yandex.ru/i/1EJ6hlr7g_glhw)]
-
--  Полезная информация для начинающих!!! [[Посмотреть](https://www.cyberforum.ru/cpp-beginners/thread1922328.html)]
+* :green_book: Начальный :green_book:
+  - Стенли Б. Липпман - Язык программирования C++. Базовый курс. [[Скачать книгу](https://disk.yandex.ru/i/O_9ghFjZMr8bBA)]
+  - Стивен Прата - Язык программирования C++. Лекции и упражнения [[Скачать книгу](https://disk.yandex.ru/i/QSR598p9CpG5tA)]
+  - Бьёрн Страуструп - Принципы и практика с использованием C++ [[Скачать книгу](https://disk.yandex.ru/i/1EJ6hlr7g_glhw)]
+* :blue_book: Средний :blue_book:
+  - Скотт Мейерс - Эффективный и современный С++. 42 рекомендации по использованию C++11 и C++14 [[Скачать книгу](https://disk.yandex.ru/i/BKzDWpscRPl_lQ)]
+  - Яцек Галовиц - C++17 STL. Стандартная библиотека шаблонов [[Скачать книгу](https://disk.yandex.ru/i/UcSk25yhTVBNVg)]
+* :orange_book: Выше среднего :orange_book:
 
 "Жизнь после Праты"
-- Scott Meyers "Effective Modern C++ - 42 SPECIFIC WAYS TO IMPROVE YOUR USE OF C++11 AND C++14"
 - Ivor Horton Peter Van Weert  "Beginning C++20 - From Novice to Professional" (6th edition)
 - Nicolai M. Josuttis "С++17 The Complete Guide"
 - Marc Gregorie "Professional C++" (4th edition)
-- Jacek Galowicz "C++17 STL Cookbook"
 - Vardan Grigoryan, Shunguang Wu "Expert C++ - Become a proficient programmer by learning coding best practices with C++17 and C++20's latest features"
 - David Vandevoorde, Nicolai M. Josuttis, Douglas Gregor "C++ Templates - The Complete Guide" (2nd edition)
 - Antony Polukhin, Boost C++ Application Development Cookbook
 - Bjorn Andrist, Viktor Sehr, C++ High Performance: Master the art of optimizing the functioning of your C++ code (2nd Edition)
-
-- [[Пополняющаяся библиотека полезной литературы](https://disk.yandex.ru/d/3p7CqGmDVslLiA?w=1)]
 
 ---
 
@@ -119,7 +118,7 @@
 
 - Для тех, кто имеет уже базовые знания в языке.
 - * [ [Яндекс Практикум] "Разработчик C++"](https://practicum.yandex.ru/profile/cpp/)
-  * [ [МФТИ] "Искусство разработки на современном C++"](https://ru.coursera.org/specializations/c-plus-plus-modern-development)
+  * [ [МФТИ] "Искусство разработки на современном C++"](https://ru.coursera.org/specializations/c-plus-plus-modern-development) //ЗАКРЫ
   * [ [OTUS] "Разработчик C++ 2020"](https://disk.yandex.ru/d/01KzEC-oIrpUqA?w=1)
   * [ [Повторение материала] ](https://thispointer.com/c11-tutorial/)
  
