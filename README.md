@@ -106,6 +106,7 @@
 - Bjorn Andrist, Viktor Sehr, C++ High Performance: Master the art of optimizing the functioning of your C++ code (2nd Edition)
 
 - [[Пополняющаяся библиотека полезной литературы](https://disk.yandex.ru/d/3p7CqGmDVslLiA?w=1)]
+- [[Онлайн ресурс с огромной библиотекой книг на английском язык](https://www.docutr.com/?s=C%2B%2B)]
 
 ### ✅ Курсы по С++ для начинающих и не только ✅ ###
 
