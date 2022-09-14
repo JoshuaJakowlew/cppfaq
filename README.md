@@ -155,10 +155,7 @@
 - [Алгортимы Ч.2 от Принстонского университета ( Coursera ) ](https://ru.coursera.org/learn/algorithms-part2)
 
 ##### Интересные (и местами случайные) конференции, статьи и выступления в мире С++
-- Конференции
-  * [CppCon](https://www.youtube.com/user/CppCon)
-  * [C++ User Group](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA)
-
+- [Каталог конференций](https://github.com/PatriotRossii/cpp-conferences)
 - Статьи
   * [Отличные статьи по С++](http://scrutator.me/)
   * [User-defined литералы и магия на интринсиках (разные статьи)](https://wunkolo.github.io/)
