@@ -136,6 +136,7 @@
 
 - [Алгоритмы - Теория и Реализация](https://ru.algorithmica.org/cs/graph-traversals/cycle/)
 - [Лекции Павла Марвина](https://www.youtube.com/c/pavelmavrin)
+- [Сайт с реализациями кучи алгоритмов на куче языков](https://the-algorithms.com)
 
 - [Тренировки по алгоритмам [Яндекс]](https://yandex.ru/yaintern/algorithm-training)
    * Тренировки по алгоритмам от Яндекса [Плейлист](https://www.youtube.com/watch?v=QLhqYNsPIVo&list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5)
