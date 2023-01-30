@@ -138,6 +138,8 @@
 - [Лекции Павла Марвина](https://www.youtube.com/c/pavelmavrin)
 - [Реализациями большого количества алгоритмов на разных языках программирования](https://the-algorithms.com)
 
+- [Algorithms for Modern Hardware (книга по оптимизациям под современное железо)](https://en.algorithmica.org/hpc/)
+
 - [Тренировки по алгоритмам [Яндекс]](https://yandex.ru/yaintern/algorithm-training)
    * Тренировки по алгоритмам от Яндекса [Плейлист](https://www.youtube.com/watch?v=QLhqYNsPIVo&list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5)
 
