@@ -191,11 +191,6 @@
   * [Официальный сайт системы автоматизации сборки программного обеспечения Cmake](https://cmake.org/)
   * [Документация](https://cmake.org/documentation/)
 
-- Cтатьи
-  * [Полное руководство по CMake. Часть первая: Синтаксис](https://habr.com/ru/post/431428/)
-  * [Полное руководство по CMake. Часть вторая: Система сборки](https://habr.com/ru/post/432096/)
-  * [Полное руководство по CMake. Часть третья: Тестирование и пакетирование](https://habr.com/ru/post/433822/)
-
 - Лекции/Видео/Tutorials
   * [Сборка проектов на C++ с использованием CMake [OTUS]](https://www.youtube.com/watch?v=LZwEtbc9gEA)
   * [CMake с нуля [SimpleCODING!] :)](https://www.youtube.com/playlist?list=PL6x9Hnsyqn2UwWjSvjCzAY6sEOBrHY7VH)
