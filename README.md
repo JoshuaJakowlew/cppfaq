@@ -194,9 +194,9 @@
   * [Документация](https://cmake.org/documentation/)
 
 - Cтатьи
-  * [Полное руководство по CMake. Часть первая: Синтаксис](web.archive.org/web/20220528140418/https://habr.com/en/post/431428)
-  * [Полное руководство по CMake. Часть вторая: Система сборки](web.archive.org/web/20220528140444/https://habr.com/en/post/432096)
-  * [Полное руководство по CMake. Часть третья: Тестирование и пакетирование](web.archive.org/web/20220528140513/https://habr.com/en/post/433822)
+  * [Полное руководство по CMake. Часть первая: Синтаксис](https://web.archive.org/web/20220528140418/https://habr.com/en/post/431428)
+  * [Полное руководство по CMake. Часть вторая: Система сборки](https://web.archive.org/web/20220528140444/https://habr.com/en/post/432096)
+  * [Полное руководство по CMake. Часть третья: Тестирование и пакетирование](https://web.archive.org/web/20220528140513/https://habr.com/en/post/433822)
 
 - Лекции/Видео/Tutorials
   * [Сборка проектов на C++ с использованием CMake [OTUS]](https://www.youtube.com/watch?v=LZwEtbc9gEA)
