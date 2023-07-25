@@ -172,8 +172,10 @@
   * [ [CppCon 2021] Beyond struct: Meta-programming a struct Replacement in C++20 - John Bandela](https://www.youtube.com/watch?v=FXfrojjIo80)
   * [ [CppCon 2019] Non-conforming C++: the Secrets the Committee Is Hiding From You - Miro Knejp](https://www.youtube.com/watch?v=IAdLwUXRUvg)
 
-- Сборник материалов на Английском языке (Сюда стоит посмотреть)
+- Сборник полезных материалов (Сюда стоит посмотреть)
   * [Jason Turner (C++ Weekly)](https://www.youtube.com/user/lefticus1)
+  * [Путеводитель C++ программиста по неопределенному поведению](https://github.com/Nekrolm/ubbook)
+  * [Визуальные шпаргалки по разным темам языка C++](https://hackingcpp.com/)
   * [Сборник разных гайдов/примеров по cmake](https://github.com/onqtam/awesome-cmake)
   * [Modern C++ and Native Code (converting from bfilipek.com)](https://www.cppstories.com/)
   * [CppNuts](https://www.youtube.com/user/MrRupeshyadav)
@@ -190,6 +192,11 @@
 - Основные ссылки
   * [Официальный сайт системы автоматизации сборки программного обеспечения Cmake](https://cmake.org/)
   * [Документация](https://cmake.org/documentation/)
+
+- Cтатьи
+  * [Полное руководство по CMake. Часть первая: Синтаксис](web.archive.org/web/20220528140418/https://habr.com/en/post/431428)
+  * [Полное руководство по CMake. Часть вторая: Система сборки](web.archive.org/web/20220528140444/https://habr.com/en/post/432096)
+  * [Полное руководство по CMake. Часть третья: Тестирование и пакетирование](web.archive.org/web/20220528140513/https://habr.com/en/post/433822)
 
 - Лекции/Видео/Tutorials
   * [Сборка проектов на C++ с использованием CMake [OTUS]](https://www.youtube.com/watch?v=LZwEtbc9gEA)
