@@ -99,6 +99,10 @@
     - Antony Polukhin, Boost C++ Application Development Cookbook
     - Bjorn Andrist, Viktor Sehr, C++ High Performance: Master the art of optimizing the functioning of your C++ code (2nd Edition)
 
+##### Онлайн-ресурсы
+
+- [CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - список рекомендаций "как надо" от разработчиков языка.
+
 ##### Онлайн-курсы
 
 - Для ознакомления с языком, если у вас вообще нет опыта.
