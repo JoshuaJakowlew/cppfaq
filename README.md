@@ -102,6 +102,7 @@
 ##### Онлайн-ресурсы
 
 - [CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - список рекомендаций "как надо" от разработчиков языка.
+- [Johnny’s Software Lab](https://johnnysswlab.com/) - неплохие гайды по оптимизации структур данных.
 
 ##### Онлайн-курсы
 
