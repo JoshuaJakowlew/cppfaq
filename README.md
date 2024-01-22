@@ -76,6 +76,10 @@
   * [Nemezida C++](https://vk.me/join/7tQtOXRZLIPkOh46aN5nN4WNEir47wHYtBE=)
   * [Nemezida Flood](https://vk.me/join/r2GYEBn3TqU9UI5hXBq917IrDXCTOTpT5mU=)
   * [С++ беседа от группы CODE BLOG](https://vk.me/join/nvk47HgezGDt485EsI9V9AT6f2I7SGGQSOc=)
+ 
+##### Локальные C++ User Groups
+
+- [C++ Moscow](https://t.me/cppmoscow_info) — Московское сообщество программистов на C++.
 
 ```TODO``` (Если вы знаете еще какие-то интересные сообщества, [оповестите нас](https://github.com/JoshuaJakowlew/cppfaq/issues)!)
 
