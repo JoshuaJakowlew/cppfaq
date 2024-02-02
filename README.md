@@ -69,17 +69,12 @@
   * [pro.cxx (Для людей с опытом)](https://t.me/ProCxx)
   * [supapro.cxx (Чат для тех, кто немного знает C++)](https://t.me/supapro)
   * [pro.buildsystems (Чат про системы сборки)](https://t.me/probuildsystems)
-  * [C/C++ UA (Чат на Украинском языке)](https://t.me/cppua)
   * [Qt](https://t.me/qt_chat)
-  * [Android NDK](https://t.me/ndk_ru)
-- Беседы в Vk.com
+- Беседы в vk.com
   * [Nemezida C++](https://vk.me/join/7tQtOXRZLIPkOh46aN5nN4WNEir47wHYtBE=)
   * [Nemezida Flood](https://vk.me/join/r2GYEBn3TqU9UI5hXBq917IrDXCTOTpT5mU=)
-  * [С++ беседа от группы CODE BLOG](https://vk.me/join/nvk47HgezGDt485EsI9V9AT6f2I7SGGQSOc=)
- 
-##### Локальные C++ User Groups
-
-- [C++ Moscow](https://t.me/cppmoscow_info) — Московское сообщество программистов на C++.
+- Локальные C++ User Groups
+  * [C++ Moscow](https://t.me/cppmoscow_info) — Московское сообщество программистов на C++.
 
 ```TODO``` (Если вы знаете еще какие-то интересные сообщества, [оповестите нас](https://github.com/JoshuaJakowlew/cppfaq/issues)!)
 
