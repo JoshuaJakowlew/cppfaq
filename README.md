@@ -114,7 +114,7 @@
 
 - Для тех, кто имеет уже базовые знания в языке.
   * [ [Яндекс Практикум] "Разработчик C++"](https://practicum.yandex.ru/profile/cpp/)
-  * [ [Яндекс Практикум] "C++ для бэкенда"](https://practicum.yandex.ru/profile/cpp-backend/)
+  * [ [Яндекс Практикум] "Курс «Мидл C++ разработчик»"](https://practicum.yandex.ru/promo/courses/middle-cpp-ts/)
   * [ [Бывшая Coursera] "Основы разработки на C++"](https://cppcourse.ru/)
   * [ [OTUS] "Разработчик C++ 2020"](https://disk.yandex.ru/d/01KzEC-oIrpUqA?w=1)
   * [ [Повторение материала] ](https://thispointer.com/c11-tutorial/)
