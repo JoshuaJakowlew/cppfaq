@@ -97,6 +97,8 @@
     - David Vandevoorde, Nicolai M. Josuttis, Douglas Gregor "C++ Templates - The Complete Guide" (2nd edition)
     - Antony Polukhin, Boost C++ Application Development Cookbook
     - Bjorn Andrist, Viktor Sehr, C++ High Performance: Master the art of optimizing the functioning of your C++ code (2nd Edition)
+    - Rainer Grimm, C++20: Get the Details
+    - Paul Deitel, Harvey Deitel, C++20 for Programmers: An Objects-Natural Approach
 
 ##### Онлайн-ресурсы
 
