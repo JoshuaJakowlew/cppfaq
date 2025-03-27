@@ -144,7 +144,7 @@
 ##### Материалы для изучения алгоритмов и структур данных
 
 - [Алгоритмы - Теория и Реализация](https://ru.algorithmica.org/cs/graph-traversals/cycle/)
-- [Лекции Павла Марвина](https://www.youtube.com/c/pavelmavrin)
+- [Лекции Павла Маврина](https://www.youtube.com/c/pavelmavrin)
 - [Реализациями большого количества алгоритмов на разных языках программирования](https://the-algorithms.com)
 
 - [Algorithms for Modern Hardware (книга по оптимизациям под современное железо)](https://en.algorithmica.org/hpc/)
