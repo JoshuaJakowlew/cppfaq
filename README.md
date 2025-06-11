@@ -140,6 +140,7 @@
 * [CodeForces](https://codeforces.com/)
 * [Codewars](https://codewars.com/kata/search/cpp?q=&&beta)
 * [LeetCode](https://leetcode.com/)
+* [CppQuiz](https://cppquiz.org)
 
 ##### Материалы для изучения алгоритмов и структур данных
 
