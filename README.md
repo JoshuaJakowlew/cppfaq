@@ -126,10 +126,8 @@
 - Константина Владимирова (LLVM Compiler Devloper)
     * [Великолепные лекции по С++](https://www.youtube.com/channel/UCvmBEbr9NZt7UEh9doI7n_A/featured)
     * [C++ базовый курс, MIPT, ILab](https://www.youtube.com/watch?v=Bym7UMqpVEY&list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK)
-- Лекторий ФПМИ
-    * [Введение в С++ (1 курс, осень 2020) ЧАСТЬ №1](https://www.youtube.com/playlist?list=PL4_hYwCyhAvazfCDGyS0wx_hvBmnAAf4h)
-    * [Введение в С++ (1 курс, весна 2021) ЧАСТЬ №2](https://www.youtube.com/playlist?list=PL4_hYwCyhAvYTzwME4vQoDO8ZINM5trra)
-    * [Введение в С++ (1 курс, осень-весна 2021-2022)](https://www.youtube.com/playlist?list=PLSaMkqCXRp4Jen1F8YHJpxlj64hJhdoCS)
+- Ильи Мещерина (МФТИ ФПМИ)
+    * [Введение в С++ (1 курс, 2023/2024)](https://youtube.com/playlist?list=PLmSYEYYGhnBviRYhIDty-CSTDS16a3whl&si=M-LqB9TrrrUk0HmL)
 - Computer Science Center
     * [Программирование на C++, часть 1 (осень 2018)](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTFea2FYxp7mFfbZW-xavhL)
     * [Программирование на C++, часть 2 (весна 2019)](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRs7YafQ1GgJvyRku10m1RN)
