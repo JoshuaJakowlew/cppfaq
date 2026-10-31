@@ -10,18 +10,18 @@
 
 ##### Стандарт языка и документация
 
-* [Документация по С++ (cppreference)](https://en.cppreference.com/w)
+* [Документация по С++ (cppreference)](https://ru.cppreference.com)
 * [Документация по С++ от Microsoft (MSDN)](https://docs.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170)
 * [Последний драфт стандарта (Working Draft)](http://eel.is/c++draft/)
 
 ##### Список выпущенных стандартов языка и изменения которые они привнесли
 
-- Нововведения С++11 [📄Текст](https://en.cppreference.com/w/cpp/11) [📺Видео](https://www.youtube.com/watch?v=ZOmZCj5ijck&ab_channel=PVS-StudioRu)
-- Нововведения С++14 [📄Текст](https://en.cppreference.com/w/cpp/14) [📺Видео](https://www.youtube.com/watch?v=5TTS9zr9PGk&ab_channel=PVS-StudioRu)
-- Нововведения С++17 [📄Текст](https://en.cppreference.com/w/cpp/17) [📺Видео](https://www.youtube.com/watch?v=rRMgJEZVY04&ab_channel=PVS-StudioRu)
-- Нововведения С++20 [📄Текст](https://en.cppreference.com/w/cpp/20) [📺Видео](https://www.youtube.com/watch?v=KPuYn_fUdxc&t=3s&ab_channel=PVS-StudioRu)
-- Нововведения С++23 [📄Текст](https://en.cppreference.com/w/cpp/23) [📺Видео](https://www.youtube.com/watch?v=mQzijnbnTO4&t=968s)
-- [Список нововведений С++11-23 с примерами](https://github.com/AnthonyCalandra/modern-cpp-features)
+- Нововведения С++11 [📄Текст](https://ru.cppreference.com/cpp/11) [📺Видео](https://www.youtube.com/watch?v=ZOmZCj5ijck&ab_channel=PVS-StudioRu)
+- Нововведения С++14 [📄Текст](https://ru.cppreference.com/cpp/14) [📺Видео](https://www.youtube.com/watch?v=5TTS9zr9PGk&ab_channel=PVS-StudioRu)
+- Нововведения С++17 [📄Текст](https://ru.cppreference.com/cpp/17) [📺Видео](https://www.youtube.com/watch?v=rRMgJEZVY04&ab_channel=PVS-StudioRu)
+- Нововведения С++20 [📄Текст](https://ru.cppreference.com/cpp/20) [📺Видео](https://www.youtube.com/watch?v=KPuYn_fUdxc&t=3s&ab_channel=PVS-StudioRu)
+- Нововведения С++23 [📄Текст](https://ru.cppreference.com/cpp/23) [📺Видео](https://www.youtube.com/watch?v=mQzijnbnTO4&t=968s)
+- [Список нововведений С++11-23 с примерами](https://github.com/AnthonyCalandra/modern-cpp-features) [EN]
 
 ### :pushpin: Онлайн-сервисы
 
