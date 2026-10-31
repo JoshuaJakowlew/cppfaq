@@ -23,6 +23,50 @@
 - Нововведения С++23 [📄Текст](https://ru.cppreference.com/cpp/23) [📺Видео](https://www.youtube.com/watch?v=mQzijnbnTO4&t=968s)
 - [Список нововведений С++11-23 с примерами](https://github.com/AnthonyCalandra/modern-cpp-features) [EN]
 
+### :pushpin: Компиляторы
+
+#### Windows 
+Для Windows вы можете использовать готовые сборки компиляторов [GCC](https://gcc.gnu.org/releases.html)/[Clang](https://releases.llvm.org/), например:
+ * [MinGW-w64 project](https://www.mingw-w64.org/downloads)
+ * * [niXman/mingw-builds-binaries](https://github.com/niXman/mingw-builds-binaries/releases)
+ * * [sourceforge.net mingw-w64/files](https://sourceforge.net/projects/mingw-w64/files)
+ * [TDM-GCC project](https://jmeubank.github.io/tdm-gcc/)
+ * * [TDM-GCC 10.3.0 installer](https://sourceforge.net/projects/tdm-gcc/files/v10.3.0-tdm64-1/tdm64-gcc-10.3.0.exe)
+ * * [TDM-GCC 4.9.2 installer](https://sourceforge.net/projects/tdm-gcc/files/TDM-GCC%20Installer/Previous/1.1309.0/tdm64-gcc-4.9.2-3.exe)
+ * * [sourceforge.net tdm-gcc/files](https://sourceforge.net/projects/tdm-gcc/files)
+ * [Clang releases](https://releases.llvm.org/)
+ * * [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw/releases)
+ * Dev-C++ IDE
+ * * [Dev-Cpp 5.11 (TDM-GCC 4.9.2) installer](https://soft.mydiv.net/win/dlfile280771_c13ad-DEV-C.html/Dev-Cpp-5.11-TDM-GCC-4.9.2-Setup.exe)
+ * * [Dev-C++ 4.9.9.2 (gcc 3.4.2) installer](https://sourceforge.net/projects/dev-cpp/files/Binaries/Dev-C++%204.9.9.2/) (только для очень старых систем)
+ * Microsoft Visual C++ (MSVC)
+
+#### Linux
+Для Linux вы можете использовать пакетные менеджеры вашей системы для установки GCC/Clang, например:
+* Debian/Ubuntu: `apt install g++ -y --no-install-recommends`.
+
+### :pushpin: Системы сборки
+
+##### Материалы по Cmake
+
+- Основные ссылки
+  * [Официальный сайт системы автоматизации сборки программного обеспечения Cmake](https://cmake.org/)
+  * [Документация](https://cmake.org/documentation/)
+
+- Cтатьи
+  * [Полное руководство по CMake. Часть первая: Синтаксис](https://web.archive.org/web/20220528140418/https://habr.com/en/post/431428)
+  * [Полное руководство по CMake. Часть вторая: Система сборки](https://web.archive.org/web/20220528140444/https://habr.com/en/post/432096)
+  * [Полное руководство по CMake. Часть третья: Тестирование и пакетирование](https://web.archive.org/web/20220528140513/https://habr.com/en/post/433822)
+
+- Лекции/Видео/Tutorials
+  * [Сборка проектов на C++ с использованием CMake [OTUS]](https://www.youtube.com/watch?v=LZwEtbc9gEA)
+  * [CMake с нуля [SimpleCODING!] :)](https://www.youtube.com/playlist?list=PL6x9Hnsyqn2UwWjSvjCzAY6sEOBrHY7VH)
+
+- Книги/Справочники
+  * [Open Source Книга от разработчиков CMake "Mastering CMake"](https://cmake.org/cmake/help/book/mastering-cmake/)
+  * [Программирование: система построения проектов cmake [Дубров Д.В.]](https://disk.yandex.ru/i/IvnzEcNJseJbMw)
+  * [CMake Cookbook](https://disk.yandex.ru/i/jwBzh2_JcIViTw)
+
 ### :pushpin: Онлайн-сервисы
 
 ##### Основные сервисы с помощью которых можно собрать, запустить, протестировать, разместить ваш программный код
@@ -189,25 +233,3 @@
   * [Bisqwit](https://www.youtube.com/channel/UCKTehwyGCKF-b2wo0RKwrcg)
   * [Programming and Technology Tutorials(javidx9)](https://www.youtube.com/c/javidx9/videos)
   * [Molly Rocket(Handmade Hero)](https://www.youtube.com/c/MollyRocket/videos)
-
-### :pushpin: Системы сборки
-
-##### Материалы по Cmake
-
-- Основные ссылки
-  * [Официальный сайт системы автоматизации сборки программного обеспечения Cmake](https://cmake.org/)
-  * [Документация](https://cmake.org/documentation/)
-
-- Cтатьи
-  * [Полное руководство по CMake. Часть первая: Синтаксис](https://web.archive.org/web/20220528140418/https://habr.com/en/post/431428)
-  * [Полное руководство по CMake. Часть вторая: Система сборки](https://web.archive.org/web/20220528140444/https://habr.com/en/post/432096)
-  * [Полное руководство по CMake. Часть третья: Тестирование и пакетирование](https://web.archive.org/web/20220528140513/https://habr.com/en/post/433822)
-
-- Лекции/Видео/Tutorials
-  * [Сборка проектов на C++ с использованием CMake [OTUS]](https://www.youtube.com/watch?v=LZwEtbc9gEA)
-  * [CMake с нуля [SimpleCODING!] :)](https://www.youtube.com/playlist?list=PL6x9Hnsyqn2UwWjSvjCzAY6sEOBrHY7VH)
-
-- Книги/Справочники
-  * [Open Source Книга от разработчиков CMake "Mastering CMake"](https://cmake.org/cmake/help/book/mastering-cmake/)
-  * [Программирование: система построения проектов cmake [Дубров Д.В.]](https://disk.yandex.ru/i/IvnzEcNJseJbMw)
-  * [CMake Cookbook](https://disk.yandex.ru/i/jwBzh2_JcIViTw)
