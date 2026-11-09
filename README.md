@@ -43,7 +43,16 @@
 
 #### Linux
 Для Linux вы можете использовать пакетные менеджеры вашей системы для установки GCC/Clang, например:
-* Debian/Ubuntu: `apt install g++ -y --no-install-recommends`.
+* Debian-based (Debian/Ubuntu/Mint/Kali/SteamOS/Raspberry/PopOS/etc.):
+* * GCC:   `apt install g++ -y --no-install-recommends`
+* * Clang: `apt install clang -y --no-install-recommends`
+* * Clang dev: `apt install clang libclang-rt-dev -y --no-install-recommends`
+* RHEL-based (Fedora/CentOS/Alma/Rocky/Oracle/Amazon/etc): 
+* * GCC:   `dnf install -y --setopt=install_weak_deps=False gcc-c++` / `yum install -y gcc-c++`
+* * Clang: `dnf install -y --setopt=install_weak_deps=False clang`   / `yum install -y clang`
+* Arch-based (Arch/Manjaro/EndeavourOS/sysresccd/etc.):
+* * GCC:   `pacman -S --needed --noconfirm gcc`
+* * Clang: `pacman -S --needed --noconfirm clang`
 
 ### :pushpin: Системы сборки
 
